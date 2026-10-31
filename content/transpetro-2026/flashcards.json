@@ -1,0 +1,194 @@
+[
+ {
+  "frente": "Curto virtual",
+  "verso": "Entradas do amp-op na mesma tensão, com realimentação negativa"
+ },
+ {
+  "frente": "Vth e Rth",
+  "verso": "Tensão em aberto; resistência com fontes anuladas"
+ },
+ {
+  "frente": "Fator de potência",
+  "verso": "P/S = cos φ"
+ },
+ {
+  "frente": "Ressonância",
+  "verso": "XL = XC; ω0 = 1/√(LC)"
+ },
+ {
+  "frente": "Constante de tempo",
+  "verso": "RC ou L/R; 63,2% em uma τ"
+ },
+ {
+  "frente": "Região ativa do TJB",
+  "verso": "BE direta e BC reversa"
+ },
+ {
+  "frente": "Ganho do buck",
+  "verso": "D"
+ },
+ {
+  "frente": "Ganho do boost",
+  "verso": "1/(1 − D)"
+ },
+ {
+  "frente": "SCR",
+  "verso": "Dispara no gatilho e corta sem corrente de manutenção"
+ },
+ {
+  "frente": "Nobreak online",
+  "verso": "Dupla conversão, sem transferência"
+ },
+ {
+  "frente": "De Morgan",
+  "verso": "(AB)' = A' + B'; (A + B)' = A'B'"
+ },
+ {
+  "frente": "Ordem do Karnaugh",
+  "verso": "00, 01, 11, 10"
+ },
+ {
+  "frente": "JK com J = K = 1",
+  "verso": "Inverte a saída"
+ },
+ {
+  "frente": "Contador Johnson",
+  "verso": "2N estados"
+ },
+ {
+  "frente": "Pt100",
+  "verso": "100 Ω a 0 °C"
+ },
+ {
+  "frente": "Junção fria",
+  "verso": "Ponto de referência do termopar"
+ },
+ {
+  "frente": "Vazão na placa",
+  "verso": "Proporcional à raiz de ΔP"
+ },
+ {
+  "frente": "Coriolis",
+  "verso": "Mede massa e densidade diretamente"
+ },
+ {
+  "frente": "4–20 mA",
+  "verso": "Zero vivo; 12 mA = 50%"
+ },
+ {
+  "frente": "3–15 psi",
+  "verso": "Sinal pneumático padrão"
+ },
+ {
+  "frente": "Exatidão",
+  "verso": "Proximidade do valor verdadeiro"
+ },
+ {
+  "frente": "Precisão",
+  "verso": "Proximidade entre repetições"
+ },
+ {
+  "frente": "Histerese",
+  "verso": "Leitura depende do sentido"
+ },
+ {
+  "frente": "Metrologia legal",
+  "verso": "Comércio, saúde, segurança e ambiente"
+ },
+ {
+  "frente": "Ação integral",
+  "verso": "Remove erro de regime"
+ },
+ {
+  "frente": "Ação derivativa",
+  "verso": "Antecipa pela tendência e amplifica ruído"
+ },
+ {
+  "frente": "Razão de amortecimento",
+  "verso": "ζ = σ/ωn"
+ },
+ {
+  "frente": "Ciclo do CLP",
+  "verso": "Lê, executa, atualiza"
+ },
+ {
+  "frente": "IEC 61131-3",
+  "verso": "Norma das linguagens de CLP"
+ },
+ {
+  "frente": "SDCD",
+  "verso": "Controle distribuído de processos contínuos"
+ },
+ {
+  "frente": "Stevin",
+  "verso": "P = ρgh"
+ },
+ {
+  "frente": "Tag PDT",
+  "verso": "Transmissor de pressão diferencial"
+ },
+ {
+  "frente": "Tag FCV",
+  "verso": "Válvula controladora de vazão"
+ },
+ {
+  "frente": "P&ID",
+  "verso": "Fluxograma de engenharia"
+ },
+ {
+  "frente": "Matriz de causa e efeito",
+  "verso": "Relaciona eventos a ações"
+ },
+ {
+  "frente": "Malha completa",
+  "verso": "n(n − 1)/2 enlaces"
+ },
+ {
+  "frente": "Profibus DP e PA",
+  "verso": "Periferia; automação de processo"
+ },
+ {
+  "frente": "HART",
+  "verso": "FSK 1200/2200 Hz sobre 4–20 mA"
+ },
+ {
+  "frente": "Modbus",
+  "verso": "Mestre-escravo, simples e aberto"
+ },
+ {
+  "frente": "Foundation H1",
+  "verso": "31,25 kbit/s"
+ },
+ {
+  "frente": "SIL",
+  "verso": "Nível de redução de risco, de 1 a 4"
+ },
+ {
+  "frente": "2oo3",
+  "verso": "Dois de três canais precisam concordar"
+ },
+ {
+  "frente": "PERT",
+  "verso": "(O + 4M + P)/6"
+ },
+ {
+  "frente": "Caminho crítico",
+  "verso": "Mais longo, com folga zero"
+ },
+ {
+  "frente": "NR-7",
+  "verso": "PCMSO"
+ },
+ {
+  "frente": "NR-10",
+  "verso": "Segurança em eletricidade"
+ },
+ {
+  "frente": "Preditiva",
+  "verso": "Age pela condição do equipamento"
+ },
+ {
+  "frente": "Comissionamento",
+  "verso": "Verifica a instalação antes da partida"
+ }
+]
