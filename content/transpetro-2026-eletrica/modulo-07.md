@@ -20,6 +20,15 @@ Este módulo cobre os itens 8 e 10.1 do edital e valeu 7 questões em 2023. A ba
 | TT | Massas em eletrodo próprio | Baixa, limitada pelo solo | DR indispensável |
 | IT | Fonte isolada ou por alta impedância | Muito baixa na 1ª falta | Dispositivo supervisor de isolamento |
 
+```questao
+No esquema de aterramento TN-S, o neutro e o condutor de proteção
+*A) são separados em toda a instalação
+B) formam um único condutor PEN em toda a instalação
+C) são combinados no início e separados depois
+D) não existem
+> TN-S: S de separado. TN-C usa um só condutor PEN, e TN-C-S começa combinado e depois separa.
+```
+
 ### Equipotencialização
 
 Toda edificação tem um barramento de equipotencialização principal (BEP). As canalizações metálicas de água, gás e outras utilidades devem ser ligadas a ele. Elas não podem ser usadas como eletrodo de aterramento.
@@ -31,6 +40,15 @@ Com a queda unitária q, em V/(A·km): ΔV = q × I × L.
 Exemplo: equipamento de 4.400 VA em 220 V puxa 20 A. Com limite de 4%, ΔV = 8,8 V. Com q = 11 V/(A·km), L = 8,8/(11 × 20) = 0,04 km = 40 m.
 
 O limite usual para circuitos terminais é de 4%.
+
+```questao
+Um circuito de 220 V tem queda de tensão de 6,6 V até a carga. A queda percentual é
+A) 6,6%
+*B) 3%
+C) 0,3%
+D) 33%
+> ΔV% = 6,6 / 220 × 100 = 3%.
+```
 
 ### Neutro rompido
 

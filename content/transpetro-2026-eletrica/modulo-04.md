@@ -28,6 +28,15 @@ O índice horário indica a defasagem entre as tensões de linha do primário e 
 
 Para ligar transformadores em paralelo, exija a mesma relação de transformação, o mesmo índice horário, a mesma sequência de fases e impedâncias percentuais próximas. Potências iguais não são obrigatórias.
 
+```questao
+Um transformador ideal de 220 V para 22 V alimenta uma carga que puxa 5 A no secundário. A corrente no primário é
+A) 50 A
+B) 5 A
+*C) 0,5 A
+D) 0,05 A
+> A potência se conserva: a tensão caiu 10 vezes, então a corrente do primário é 10 vezes menor, 5/10 = 0,5 A.
+```
+
 ### Motor de indução trifásico
 
 ```latex
@@ -37,6 +46,15 @@ n_s = \frac{120 f}{p} \qquad s = \frac{n_s - n}{n_s}
 Exemplo: 6 polos em 60 Hz dão ns = 1.200 rpm. Girando a 1.164 rpm, s = 36/1.200 = 3%.
 
 O rotor nunca alcança a velocidade síncrona com carga; se alcançasse, não haveria indução. A corrente de partida direta fica, em geral, entre 6 e 8 vezes a nominal.
+
+```questao
+A velocidade síncrona de um motor de 4 polos em 60 Hz é
+A) 3.600 rpm
+*B) 1.800 rpm
+C) 1.200 rpm
+D) 900 rpm
+> ns = 120 × f / p = 120 × 60 / 4 = 1.800 rpm. O rotor do motor de indução gira um pouco abaixo disso.
+```
 
 ### Máquinas síncronas
 

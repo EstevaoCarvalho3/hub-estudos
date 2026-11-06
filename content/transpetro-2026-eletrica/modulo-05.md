@@ -12,6 +12,15 @@ Este módulo cobre os itens 1, 5.6 e 5.7 do edital. Em 2023 caiu 1 questão dire
 
 Coordenação pela NBR 5410: Ib ≤ In ≤ Iz e I2 ≤ 1,45·Iz. Ib é a corrente de projeto, In a do disjuntor, Iz a capacidade do condutor e I2 a corrente de atuação garantida.
 
+```questao
+O dispositivo DR (diferencial residual) protege principalmente contra
+A) sobrecarga do motor
+B) curto-circuito entre fases
+*C) choque elétrico por fuga de corrente para a terra
+D) subtensão da rede
+> O DR compara a corrente que vai com a que volta. A diferença indica fuga para a terra, muitas vezes por uma pessoa.
+```
+
 ### Partida de motores
 
 | Método | Tensão no motor | Corrente e torque de partida | Requisito |
@@ -23,6 +32,15 @@ Coordenação pela NBR 5410: Ib ≤ In ≤ Iz e I2 ≤ 1,45·Iz. Ib é a corrent
 | Inversor de frequência | Controle V/f | Partida suave e controle de velocidade | Gera harmônicos |
 
 Exemplo: motor com In = 20 A e corrente de partida de 7,5 In. Em partida direta, a corrente é 150 A. Em estrela-triângulo, cai para 50 A.
+
+```questao
+Na partida estrela-triângulo, a corrente de partida fica reduzida a cerca de
+A) metade da partida direta
+*B) um terço da partida direta
+C) √3 vezes a partida direta
+D) um quarto da partida direta
+> Em estrela cada bobina recebe Vlinha/√3, e a corrente de linha cai para 1/3. O conjugado de partida também cai para 1/3.
+```
 
 ### Comando e simbologia
 

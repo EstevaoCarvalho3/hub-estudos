@@ -13,6 +13,15 @@ P_{3\varphi} = \sqrt{3}\, V_L I_L \cos\varphi \qquad S_{3\varphi} = \sqrt{3}\, V
 
 No Brasil, as redes de baixa tensão mais comuns são 220/127 V e 380/220 V. O primeiro número é a tensão de linha; o segundo, a de fase.
 
+```questao
+Em uma ligação estrela equilibrada com tensão de linha de 380 V, a tensão de fase é de cerca de
+A) 380 V
+B) 127 V
+*C) 220 V
+D) 660 V
+> Na estrela, Vfase = Vlinha/√3 = 380/1,732 ≈ 220 V.
+```
+
 ### Exemplo com duas cargas
 
 Rede com VL = 100√3 V alimenta uma carga em Δ com j10 Ω por ramo e outra em Y com j5 Ω por ramo.
@@ -34,6 +43,15 @@ Exemplo de potência: 380 V, 20 A e FP 0,85 dão P = 1,732 × 380 × 20 × 0,85 
 ### Sequência de fases
 
 A sequência ABC ou ACB define o sentido de giro de motores trifásicos. Trocar duas fases quaisquer inverte o sentido. O sequencímetro confirma a sequência antes de ligar um motor.
+
+```questao
+Em uma carga ligada em triângulo equilibrado, a corrente de linha é
+*A) √3 vezes a corrente de fase
+B) igual à corrente de fase
+C) a corrente de fase dividida por √3
+D) 3 vezes a corrente de fase
+> No triângulo a tensão de linha é igual à de fase, e a corrente de linha é √3 vezes a de fase. Na estrela acontece o contrário.
+```
 
 ### Armadilhas de prova
 

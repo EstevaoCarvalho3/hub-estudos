@@ -13,6 +13,15 @@ V = R I \qquad P = V I = R I^2 = \frac{V^2}{R} \qquad R = \frac{\rho L}{A}
 
 Exemplo nodal: fonte de 100 V ligada ao nó por 10 Ω, com dois resistores de 10 Ω do nó ao terra. (100 − V)/10 = 2V/10, então V = 33,3 V.
 
+```questao
+Dois resistores de 6 Ω em paralelo estão em série com um de 2 Ω, sob 10 V CC. A corrente total é
+A) 1 A
+*B) 2 A
+C) 5 A
+D) 0,5 A
+> O paralelo de dois resistores iguais vale R/2 = 3 Ω. Somando 2 Ω, o total é 5 Ω, e I = 10/5 = 2 A.
+```
+
 ### Thévenin, Norton e fonte real
 
 1. Retire a carga e calcule a tensão em aberto: é Vth.
@@ -31,6 +40,15 @@ V_{ef} = \frac{V_p}{\sqrt{2}} \qquad V_{pp} = 2V_p \qquad V_{med,\,meia\ onda} =
 ```
 
 Exemplo: pico de 212 V dá eficaz de 212/1,414 ≈ 150 V. A rede de 127 V eficazes tem pico de cerca de 180 V.
+
+```questao
+Uma tomada de 127 V eficazes tem tensão de pico de cerca de
+A) 90 V
+*B) 180 V
+C) 127 V
+D) 254 V
+> Vp = Vef × √2 = 127 × 1,414 ≈ 180 V. Dividir por √2 é o caminho inverso, do pico para o eficaz.
+```
 
 ### Fasores e impedância
 

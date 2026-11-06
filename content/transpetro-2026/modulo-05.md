@@ -94,6 +94,15 @@ Um supervisório trabalha com tags, telas, alarmes, tendências e histórico.
 
 O SIS não deve depender do controle regular. Isso está no Módulo 8.
 
+```questao
+No controlador PID, a ação que responde à taxa de variação do erro é a
+A) proporcional
+B) integral
+*C) derivativa
+D) liga-desliga
+> A derivativa olha a tendência do erro e antecipa a correção. A integral elimina o erro permanente.
+```
+
 ### Armadilhas de prova
 
 - Dizer que a ação P elimina o erro permanente.

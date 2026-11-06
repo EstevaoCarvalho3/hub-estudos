@@ -52,3 +52,12 @@ Uma skill é uma pasta com `SKILL.md`, seguindo um [formato aberto](https://agen
 - Use conexão somente leitura em banco de produção.
 
 **Exercício:** rode `/context`, liste os servidores ativos e desligue um que você não usa há uma semana.
+
+```questao
+Qual frase descreve a diferença entre MCP e Skill?
+A) Os dois são a mesma coisa com nomes diferentes
+*B) MCP conecta o agente a sistemas externos; Skill ensina o agente a executar um procedimento
+C) Skill conecta sistemas e MCP guarda memória
+D) MCP só funciona com um fornecedor de IA
+> MCP é a ponte para sistemas como e-mail ou planilhas. Skill é um procedimento empacotado, carregado quando a tarefa pede.
+```

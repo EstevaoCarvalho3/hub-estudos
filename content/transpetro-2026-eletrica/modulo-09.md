@@ -13,6 +13,15 @@ Perigo é a fonte ou situação com potencial de causar dano. Risco é a combina
 
 As vestimentas de trabalho devem considerar condutibilidade, inflamabilidade e influências eletromagnéticas.
 
+```questao
+Pela NR-10, quando as medidas de proteção coletiva forem tecnicamente inviáveis ou insuficientes, devem ser adotados
+A) apenas sinalização de advertência
+*B) equipamentos de proteção individual específicos
+C) somente o trabalho em dupla
+D) procedimentos verbais de liberação
+> A proteção coletiva vem primeiro. O EPI específico e adequado à atividade entra quando ela não basta.
+```
+
 ### Desenergização, nesta ordem
 
 1. Seccionamento.
@@ -21,6 +30,15 @@ As vestimentas de trabalho devem considerar condutibilidade, inflamabilidade e i
 4. Instalação de aterramento temporário com equipotencialização.
 5. Proteção dos elementos energizados na zona controlada.
 6. Instalação da sinalização de impedimento de reenergização.
+
+```questao
+Na desenergização pela NR-10, depois do seccionamento e do impedimento de reenergização, o próximo passo é
+A) instalar a sinalização de impedimento
+*B) constatar a ausência de tensão
+C) instalar o aterramento temporário
+D) liberar o serviço
+> A ordem é seccionar, impedir a reenergização, constatar a ausência de tensão, aterrar com equipotencialização, proteger os elementos energizados próximos e sinalizar.
+```
 
 ### Documentação e pessoas
 

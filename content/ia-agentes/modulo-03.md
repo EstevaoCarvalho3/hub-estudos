@@ -42,3 +42,12 @@ Confira no menu `/` do app, porque nem todo comando do terminal aparece no Deskt
 3. **Em segundo plano:** worktree ou nuvem, critério forte e PR como entrega.
 
 **Exercício:** antes de uma correção, peça o plano com os arquivos e a verificação. Aprove, execute e confira se a evidência final prova o critério.
+
+```questao
+Pela fórmula Agente = Modelo + Harness, o harness é
+A) o modelo de linguagem em si
+*B) tudo em volta do modelo que o torna confiável, como instruções, ferramentas, controles e verificação
+C) apenas a interface de chat
+D) o conjunto de dados de treinamento
+> O modelo raciocina; o harness dá contexto, ferramentas, limites e um jeito de checar o resultado.
+```

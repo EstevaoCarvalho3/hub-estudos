@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Hub de Estudos</title>
-  <meta name="description" content="Base de conhecimento com apostilas, simulados corrigidos e flashcards.">
+  <meta name="description" content="Estude um pouco todo dia: leitura com testes rápidos, simulados corrigidos, caderno de erros e flashcards com repetição espaçada.">
   <link rel="stylesheet" href="vendor/katex.min.css">
   <link rel="stylesheet" href="styles.css">
   <script>
@@ -19,10 +19,11 @@
 <body>
   <a class="pular" href="#app">Pular para o conteúdo</a>
   <header class="topo">
-    <a class="marca" href="#/"><span class="marca-icone" aria-hidden="true">H</span>Hub de Estudos</a>
+    <a class="marca" href="#/"><span class="marca-icone" aria-hidden="true">H</span><span class="marca-texto">Hub de Estudos</span></a>
     <nav aria-label="Principal">
-      <a href="#/" data-nav="inicio">Trilhas</a>
-      <a href="#/progresso" data-nav="progresso">Meu progresso</a>
+      <a href="#/" data-nav="inicio">Início</a>
+      <a href="#/revisar" data-nav="revisar">Revisar <span class="selo-nav" id="selo-revisar" hidden></span></a>
+      <a href="#/progresso" data-nav="progresso">Progresso</a>
       <button class="tema" id="tema" type="button" aria-label="Alternar tema claro e escuro">◐</button>
     </nav>
   </header>

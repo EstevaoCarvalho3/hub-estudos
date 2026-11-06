@@ -27,3 +27,12 @@ Valores da [página de modelos](https://platform.claude.com/docs/en/models/overv
 
 - **`temperature`:** a [versão 2026-10-21 da API](https://platform.claude.com/docs/en/api/migration-2026-10-21) removeu esse parâmetro, `top_p` e `top_k`. A versão 2023-06-01 ainda aceita o parâmetro nos modelos que o suportam. No Claude Code, você controla esforço e modelo.
 - **“O contexto não cabe”:** com 1M, raramente falta espaço. O problema passou a ser [pagar por contexto desnecessário](https://code.claude.com/docs/en/best-practices.md) e perder foco.
+
+```questao
+Um LLM afirma com segurança um fato que não estava no treinamento nem no contexto, e o fato é falso. Isso se chama
+A) corte de conhecimento
+*B) alucinação
+C) cache de prompt
+D) embedding
+> Alucinação é uma resposta plausível e falsa. A defesa é dar o dado pelo contexto ou por uma ferramenta e conferir a fonte.
+```

@@ -121,6 +121,15 @@ Exemplo: 1 kΩ e 1 µF dão ωc = 1000 rad/s e fc ≈ 159 Hz. Ganho em decibéis
 - **Diagramas:** o multifilar mostra todos os condutores, o unifilar simplifica e o funcional mostra a lógica.
 - **Motor CC:** a força contraeletromotriz vale E = Ke·ω. Portanto Ke se expressa em V/(rad/s).
 
+```questao
+Um resistor de 1 kΩ percorrido por 5 mA dissipa
+A) 5 mW
+*B) 25 mW
+C) 250 mW
+D) 5 W
+> P = I² × R = (0,005)² × 1.000 = 0,025 W = 25 mW.
+```
+
 ### Armadilhas de prova
 
 - Trocar valor de pico por eficaz na potência.

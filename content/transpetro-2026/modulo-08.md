@@ -78,6 +78,15 @@ D = \frac{MTBF}{MTBF + MTTR}
 
 Exemplo: MTBF = 95 h e MTTR = 5 h dão disponibilidade de 95%.
 
+```questao
+No PERT, uma atividade tem estimativas otimista de 4, mais provável de 6 e pessimista de 14 dias. A duração esperada é
+A) 6 dias
+*B) 7 dias
+C) 8 dias
+D) 8,5 dias
+> te = (o + 4m + p) / 6 = (4 + 24 + 14) / 6 = 7 dias.
+```
+
 ### Armadilhas de prova
 
 - Dizer que SIL vai de 0 a 5. Vai de 1 a 4.

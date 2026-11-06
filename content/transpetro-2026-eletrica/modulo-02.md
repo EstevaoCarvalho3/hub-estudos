@@ -16,6 +16,15 @@ Carga indutiva absorve reativo (Q positivo); capacitor fornece reativo (Q negati
 
 Exemplo: S = 100 kVA e P = 60 kW. Q = √(100² − 60²) = 80 kvar e FP = 0,6.
 
+```questao
+Uma carga tem P = 8 kW e Q = 6 kvar. A potência aparente e o fator de potência são
+*A) 10 kVA e 0,8
+B) 14 kVA e 0,57
+C) 10 kVA e 0,6
+D) 2 kVA e 0,8
+> S = √(8² + 6²) = 10 kVA e FP = P/S = 8/10 = 0,8. Somar P e Q direto é a pegadinha.
+```
+
 ### Correção do fator de potência
 
 Some as potências de cada carga separadamente: P com P e Q com Q. Nunca some S diretamente.
@@ -33,6 +42,15 @@ No Brasil, o fator de potência de referência para cobrança de excedente reati
 1 kWh = 1.000 W × 3.600 s = 3,6 × 10⁶ J.
 
 Exemplo de medidor com disco: a constante é 2,5 Wh por volta. Uma carga de 100 W por 30 minutos consome 50 Wh, e uma de 60 W por 60 minutos, 60 Wh. O disco dá 110/2,5 = 44 voltas.
+
+```questao
+Um chuveiro de 5.000 W fica ligado 30 minutos por dia, durante 30 dias. O consumo no mês é
+A) 150 kWh
+*B) 75 kWh
+C) 2,5 kWh
+D) 7,5 kWh
+> E = 5 kW × 0,5 h × 30 dias = 75 kWh.
+```
 
 ### Medição de potência
 

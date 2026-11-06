@@ -116,6 +116,15 @@ Conversores CA/CA variam tensão por controle de fase (gradador com TRIAC) ou ta
 3. Separe polarização (CC) de sinal (CA): capacitores de acoplamento bloqueiam CC.
 4. Para cada transistor, identifique por qual terminal o sinal entra e sai.
 
+```questao
+Um amplificador inversor com amp-op tem Rf = 100 kΩ e Rin = 10 kΩ. O ganho é
+A) +10
+*B) −10
+C) +11
+D) −0,1
+> No inversor, G = −Rf/Rin = −100/10 = −10. O não inversor teria 1 + Rf/Rin = 11.
+```
+
 ### Armadilhas de prova
 
 - Aplicar IC = β·IB em saturação.

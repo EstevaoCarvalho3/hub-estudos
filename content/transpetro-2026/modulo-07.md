@@ -40,6 +40,15 @@ As camadas são Física, Enlace, Rede, Transporte, Sessão, Apresentação e Apl
 
 HART é o único da lista que mantém o sinal analógico junto do digital. Por isso entrou fácil em instalações de 4–20 mA.
 
+```questao
+Na topologia em estrela, os dispositivos de rede se ligam
+A) em um anel fechado
+*B) a um nó central
+C) a um barramento comum
+D) todos a todos
+> Na estrela tudo passa por um nó central, como um switch. Se ele falha, a rede para.
+```
+
 ### Armadilhas de prova
 
 - Confundir DP (manufatura e periferia) com PA (processo).

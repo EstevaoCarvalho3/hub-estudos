@@ -86,6 +86,15 @@ Exemplo Johnson de 2 flip-flops, com D1 = Q2' e D2 = Q1, partindo de 00. Tabela 
 
 Método para questões de sequência: escreva a equação de cada entrada, monte a tabela clock a clock e só então relacione os estados aos LEDs.
 
+```questao
+O número decimal 13 escrito em binário é
+A) 1011
+*B) 1101
+C) 1110
+D) 0111
+> 13 = 8 + 4 + 1, ou seja, 1101.
+```
+
 ### Armadilhas de prova
 
 - Ordenar o mapa como 00, 01, 10, 11.

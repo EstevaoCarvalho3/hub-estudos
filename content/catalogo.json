@@ -82,7 +82,8 @@
    "flashcards": "flashcards.json",
    "area": "Concursos",
    "cor": "azul",
-   "resumo": "Ênfase 9 · Cesgranrio · prova em 06/12/2026"
+   "resumo": "Ênfase 9 · Cesgranrio · prova em 06/12/2026",
+   "tipo": "concurso"
   },
   {
    "id": "transpetro-2026-eletrica",
@@ -171,7 +172,8 @@
      "arquivo": "simulado.json"
     }
    ],
-   "flashcards": "flashcards.json"
+   "flashcards": "flashcards.json",
+   "tipo": "concurso"
   },
   {
    "id": "ia-agentes",
@@ -219,7 +221,8 @@
     }
    ],
    "avaliacoes": [],
-   "flashcards": "flashcards.json"
+   "flashcards": "flashcards.json",
+   "tipo": "curso"
   },
   {
    "id": "zeny-erp",
@@ -230,7 +233,8 @@
    "avaliacoes": [],
    "area": "Sistemas",
    "cor": "cinza",
-   "resumo": "Em construção"
+   "resumo": "Em construção",
+   "tipo": "curso"
   }
  ]
 }

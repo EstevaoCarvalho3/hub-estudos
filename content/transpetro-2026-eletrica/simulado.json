@@ -54,7 +54,8 @@
    },
    "resposta": "C",
    "explicacao": "O texto cobre vigilância, sensores e experiência humana",
-   "passagem": "texto1"
+   "passagem": "texto1",
+   "modulo": "modulo-10"
   },
   {
    "n": 2,
@@ -69,7 +70,8 @@
    },
    "resposta": "E",
    "explicacao": "\"Por isso\" conclui a frase anterior",
-   "passagem": "texto1"
+   "passagem": "texto1",
+   "modulo": "modulo-10"
   },
   {
    "n": 3,
@@ -84,7 +86,8 @@
    },
    "resposta": "A",
    "explicacao": "\"Embora\" admite um obstáculo que não impede o fato",
-   "passagem": "texto1"
+   "passagem": "texto1",
+   "modulo": "modulo-10"
   },
   {
    "n": 4,
@@ -99,7 +102,8 @@
    },
    "resposta": "D",
    "explicacao": "\"Contudo\" e \"entretanto\" indicam oposição",
-   "passagem": "texto1"
+   "passagem": "texto1",
+   "modulo": "modulo-10"
   },
   {
    "n": 5,
@@ -114,7 +118,8 @@
    },
    "resposta": "B",
    "explicacao": "A tecnologia amplia o olhar e não elimina o profissional",
-   "passagem": "texto1"
+   "passagem": "texto1",
+   "modulo": "modulo-10"
   },
   {
    "n": 6,
@@ -128,7 +133,8 @@
     "E": "A válvula foi fechada à mando do operador."
    },
    "resposta": "C",
-   "explicacao": "Chegar a + a conclusão; as demais têm verbo, pronome ou masculino"
+   "explicacao": "Chegar a + a conclusão; as demais têm verbo, pronome ou masculino",
+   "modulo": "modulo-10"
   },
   {
    "n": 7,
@@ -142,7 +148,8 @@
     "E": "Houve falhas nos dois transmissores."
    },
    "resposta": "E",
-   "explicacao": "Haver no sentido de existir fica no singular"
+   "explicacao": "Haver no sentido de existir fica no singular",
+   "modulo": "modulo-10"
   },
   {
    "n": 8,
@@ -156,7 +163,8 @@
     "E": "O supervisor entregou, as ordens aos técnicos."
    },
    "resposta": "A",
-   "explicacao": "Vírgula isola adjunto deslocado; as demais separam termos essenciais"
+   "explicacao": "Vírgula isola adjunto deslocado; as demais separam termos essenciais",
+   "modulo": "modulo-10"
   },
   {
    "n": 9,
@@ -170,7 +178,8 @@
     "E": "excessão, análise, privilégio"
    },
    "resposta": "D",
-   "explicacao": "Exceção, análise, privilégio"
+   "explicacao": "Exceção, análise, privilégio",
+   "modulo": "modulo-10"
   },
   {
    "n": 10,
@@ -184,7 +193,8 @@
     "E": "equipes"
    },
    "resposta": "B",
-   "explicacao": "Anomalia é desvio do normal"
+   "explicacao": "Anomalia é desvio do normal",
+   "modulo": "modulo-10"
   },
   {
    "n": 11,
@@ -198,7 +208,8 @@
     "E": "12"
    },
    "resposta": "C",
-   "explicacao": "8 × 6/4 × 6/8 = 9"
+   "explicacao": "8 × 6/4 × 6/8 = 9",
+   "modulo": "modulo-11"
   },
   {
    "n": 12,
@@ -212,7 +223,8 @@
     "E": "+2%"
    },
    "resposta": "B",
-   "explicacao": "1,2 × 0,8 = 0,96"
+   "explicacao": "1,2 × 0,8 = 0,96",
+   "modulo": "modulo-11"
   },
   {
    "n": 13,
@@ -226,7 +238,8 @@
     "E": "R$ 1.331,00"
    },
    "resposta": "D",
-   "explicacao": "1.000 × 1,1² = 1.210"
+   "explicacao": "1.000 × 1,1² = 1.210",
+   "modulo": "modulo-11"
   },
   {
    "n": 14,
@@ -240,7 +253,8 @@
     "E": "31"
    },
    "resposta": "A",
-   "explicacao": "32 = 2⁵, então x + 1 = 5"
+   "explicacao": "32 = 2⁵, então x + 1 = 5",
+   "modulo": "modulo-11"
   },
   {
    "n": 15,
@@ -254,7 +268,8 @@
     "E": "3"
    },
    "resposta": "E",
-   "explicacao": "Raízes 2 e 3"
+   "explicacao": "Raízes 2 e 3",
+   "modulo": "modulo-11"
   },
   {
    "n": 16,
@@ -268,7 +283,8 @@
     "E": "720"
    },
    "resposta": "C",
-   "explicacao": "C(6,3) = 20"
+   "explicacao": "C(6,3) = 20",
+   "modulo": "modulo-11"
   },
   {
    "n": 17,
@@ -282,7 +298,8 @@
     "E": "5/36"
    },
    "resposta": "A",
-   "explicacao": "6 casos em 36"
+   "explicacao": "6 casos em 36",
+   "modulo": "modulo-11"
   },
   {
    "n": 18,
@@ -296,7 +313,8 @@
     "E": "5"
    },
    "resposta": "B",
-   "explicacao": "Média 5 e mediana 4"
+   "explicacao": "Média 5 e mediana 4",
+   "modulo": "modulo-11"
   },
   {
    "n": 19,
@@ -310,7 +328,8 @@
     "E": "5,0"
    },
    "resposta": "D",
-   "explicacao": "h = 6 × 8 / 10"
+   "explicacao": "h = 6 × 8 / 10",
+   "modulo": "modulo-11"
   },
   {
    "n": 20,
@@ -324,7 +343,8 @@
     "E": "20π"
    },
    "resposta": "E",
-   "explicacao": "π × 4 × 5"
+   "explicacao": "π × 4 × 5",
+   "modulo": "modulo-11"
   },
   {
    "n": 21,
@@ -338,7 +358,8 @@
     "E": "6"
    },
    "resposta": "C",
-   "explicacao": "Req = 2 + 2 = 4 Ω; I = 12/4"
+   "explicacao": "Req = 2 + 2 = 4 Ω; I = 12/4",
+   "modulo": "modulo-01"
   },
   {
    "n": 22,
@@ -352,7 +373,8 @@
     "E": "100"
    },
    "resposta": "B",
-   "explicacao": "(100 − V)/10 = V/5, então V = 33,3 V"
+   "explicacao": "(100 − V)/10 = V/5, então V = 33,3 V",
+   "modulo": "modulo-01"
   },
   {
    "n": 23,
@@ -366,7 +388,8 @@
     "E": "6 e 6"
    },
    "resposta": "A",
-   "explicacao": "Vth = 24 × 12/16; Rth = 3 + (4 ∥ 12)"
+   "explicacao": "Vth = 24 × 12/16; Rth = 3 + (4 ∥ 12)",
+   "modulo": "modulo-01"
   },
   {
    "n": 24,
@@ -380,7 +403,8 @@
     "E": "1,2"
    },
    "resposta": "B",
-   "explicacao": "r = (12 − 11,6)/(20 − 10)"
+   "explicacao": "r = (12 − 11,6)/(20 − 10)",
+   "modulo": "modulo-01"
   },
   {
    "n": 25,
@@ -394,7 +418,8 @@
     "E": "311"
    },
    "resposta": "C",
-   "explicacao": "311/√2"
+   "explicacao": "311/√2",
+   "modulo": "modulo-01"
   },
   {
    "n": 26,
@@ -408,7 +433,8 @@
     "E": "100"
    },
    "resposta": "E",
-   "explicacao": "√(60² + 80²), pois os fasores estão a 90°"
+   "explicacao": "√(60² + 80²), pois os fasores estão a 90°",
+   "modulo": "modulo-01"
   },
   {
    "n": 27,
@@ -422,7 +448,8 @@
     "E": "8"
    },
    "resposta": "D",
-   "explicacao": "τ = L/R = 0,2/40 = 5 ms"
+   "explicacao": "τ = L/R = 0,2/40 = 5 ms",
+   "modulo": "modulo-01"
   },
   {
    "n": 28,
@@ -436,7 +463,8 @@
     "E": "48"
    },
    "resposta": "D",
-   "explicacao": "50 Wh + 60 Wh = 110 Wh; 110/2,5"
+   "explicacao": "50 Wh + 60 Wh = 110 Wh; 110/2,5",
+   "modulo": "modulo-02"
   },
   {
    "n": 29,
@@ -450,7 +478,8 @@
     "E": "46"
    },
    "resposta": "C",
-   "explicacao": "30 + 16 − 20 kvar"
+   "explicacao": "30 + 16 − 20 kvar",
+   "modulo": "modulo-02"
   },
   {
    "n": 30,
@@ -464,7 +493,8 @@
     "E": "1,00"
    },
    "resposta": "A",
-   "explicacao": "FP = 60/100"
+   "explicacao": "FP = 60/100",
+   "modulo": "modulo-02"
   },
   {
    "n": 31,
@@ -478,7 +508,8 @@
     "E": "3,6 × 10⁶"
    },
    "resposta": "E",
-   "explicacao": "1.000 W × 3.600 s"
+   "explicacao": "1.000 W × 3.600 s",
+   "modulo": "modulo-02"
   },
   {
    "n": 32,
@@ -492,7 +523,8 @@
     "E": "média das leituras"
    },
    "resposta": "B",
-   "explicacao": "P = W1 + W2, com sinal"
+   "explicacao": "P = W1 + W2, com sinal",
+   "modulo": "modulo-03"
   },
   {
    "n": 33,
@@ -506,7 +538,8 @@
     "E": "70"
    },
    "resposta": "D",
-   "explicacao": "Δ: IL = 30 A; Y: 20 A; ambas indutivas puras"
+   "explicacao": "Δ: IL = 30 A; Y: 20 A; ambas indutivas puras",
+   "modulo": "modulo-03"
   },
   {
    "n": 34,
@@ -520,7 +553,8 @@
     "E": "658"
    },
    "resposta": "C",
-   "explicacao": "380/√3"
+   "explicacao": "380/√3",
+   "modulo": "modulo-03"
   },
   {
    "n": 35,
@@ -534,7 +568,8 @@
     "E": "22,4"
    },
    "resposta": "B",
-   "explicacao": "√3 × 380 × 20 × 0,85"
+   "explicacao": "√3 × 380 × 20 × 0,85",
+   "modulo": "modulo-03"
   },
   {
    "n": 36,
@@ -548,7 +583,8 @@
     "E": "16"
    },
    "resposta": "C",
-   "explicacao": "F = 0,8 × 20 × 0,5"
+   "explicacao": "F = 0,8 × 20 × 0,5",
+   "modulo": "modulo-04"
   },
   {
    "n": 37,
@@ -562,7 +598,8 @@
     "E": "rigidez dielétrica"
    },
    "resposta": "A",
-   "explicacao": "Chapas isoladas cortam o caminho das correntes de Foucault"
+   "explicacao": "Chapas isoladas cortam o caminho das correntes de Foucault",
+   "modulo": "modulo-04"
   },
   {
    "n": 38,
@@ -576,7 +613,8 @@
     "E": "6%"
    },
    "resposta": "C",
-   "explicacao": "ns = 1.200; s = 36/1.200"
+   "explicacao": "ns = 1.200; s = 36/1.200",
+   "modulo": "modulo-04"
   },
   {
    "n": 39,
@@ -590,7 +628,8 @@
     "E": "6,6"
    },
    "resposta": "B",
-   "explicacao": "Ia = 28 A; E = 206 V; 5.768 − 368 W"
+   "explicacao": "Ia = 28 A; E = 206 V; 5.768 − 368 W",
+   "modulo": "modulo-04"
   },
   {
    "n": 40,
@@ -604,7 +643,8 @@
     "E": "450"
    },
    "resposta": "B",
-   "explicacao": "IL = 150 A; If = 150/√3"
+   "explicacao": "IL = 150 A; If = 150/√3",
+   "modulo": "modulo-04"
   },
   {
    "n": 41,
@@ -618,7 +658,8 @@
     "E": "a mesma potência nominal"
    },
    "resposta": "E",
-   "explicacao": "Potências podem ser diferentes"
+   "explicacao": "Potências podem ser diferentes",
+   "modulo": "modulo-04"
   },
   {
    "n": 42,
@@ -632,7 +673,8 @@
     "E": "260"
    },
    "resposta": "B",
-   "explicacao": "150 A divididos por 3"
+   "explicacao": "150 A divididos por 3",
+   "modulo": "modulo-05"
   },
   {
    "n": 43,
@@ -646,7 +688,8 @@
     "E": "10 e 20 In"
    },
    "resposta": "D",
-   "explicacao": "Curva C: 5 a 10 In"
+   "explicacao": "Curva C: 5 a 10 In",
+   "modulo": "modulo-05"
   },
   {
    "n": 44,
@@ -660,7 +703,8 @@
     "E": "subtensão da rede"
    },
    "resposta": "A",
-   "explicacao": "Relé térmico mede o aquecimento por sobrecarga"
+   "explicacao": "Relé térmico mede o aquecimento por sobrecarga",
+   "modulo": "modulo-05"
   },
   {
    "n": 45,
@@ -674,7 +718,8 @@
     "E": "trocar duas fases entre si"
    },
    "resposta": "E",
-   "explicacao": "Troca circular mantém a sequência; só trocar duas inverte"
+   "explicacao": "Troca circular mantém a sequência; só trocar duas inverte",
+   "modulo": "modulo-05"
   },
   {
    "n": 46,
@@ -688,7 +733,8 @@
     "E": "alicate amperímetro"
    },
    "resposta": "C",
-   "explicacao": "Megôhmetro mede isolação"
+   "explicacao": "Megôhmetro mede isolação",
+   "modulo": "modulo-06"
   },
   {
    "n": 47,
@@ -702,7 +748,8 @@
     "E": "seu secundário típico é de 115 V"
    },
    "resposta": "A",
-   "explicacao": "Secundário aberto gera tensão perigosa"
+   "explicacao": "Secundário aberto gera tensão perigosa",
+   "modulo": "modulo-06"
   },
   {
    "n": 48,
@@ -716,7 +763,8 @@
     "E": "ferrorressonante"
    },
    "resposta": "D",
-   "explicacao": "Off-line deixa a rede passar direto"
+   "explicacao": "Off-line deixa a rede passar direto",
+   "modulo": "modulo-06"
   },
   {
    "n": 49,
@@ -730,7 +778,8 @@
     "E": "12 V e 800 Ah"
    },
    "resposta": "B",
-   "explicacao": "Série soma tensão; paralelo soma Ah"
+   "explicacao": "Série soma tensão; paralelo soma Ah",
+   "modulo": "modulo-06"
   },
   {
    "n": 50,
@@ -744,7 +793,8 @@
     "E": "44"
    },
    "resposta": "D",
-   "explicacao": "I = 20 A; L = 8,8/(11 × 20) km"
+   "explicacao": "I = 20 A; L = 8,8/(11 × 20) km",
+   "modulo": "modulo-07"
   },
   {
    "n": 51,
@@ -758,7 +808,8 @@
     "E": "elevada, o que permite a atuação rápida do disjuntor"
    },
    "resposta": "E",
-   "explicacao": "Falta por baixa impedância gera corrente alta"
+   "explicacao": "Falta por baixa impedância gera corrente alta",
+   "modulo": "modulo-07"
   },
   {
    "n": 52,
@@ -772,7 +823,8 @@
     "E": "condutor de proteção de seção maior que a fase"
    },
    "resposta": "C",
-   "explicacao": "Neutro rompido desloca o ponto neutro"
+   "explicacao": "Neutro rompido desloca o ponto neutro",
+   "modulo": "modulo-07"
   },
   {
    "n": 53,
@@ -786,7 +838,8 @@
     "E": "substituem o condutor de proteção"
    },
    "resposta": "D",
-   "explicacao": "Não é eletrodo, mas entra no BEP"
+   "explicacao": "Não é eletrodo, mas entra no BEP",
+   "modulo": "modulo-07"
   },
   {
    "n": 54,
@@ -800,7 +853,8 @@
     "E": "esferas rolantes"
    },
    "resposta": "B",
-   "explicacao": "MPS, tratadas na NBR 5419-4"
+   "explicacao": "MPS, tratadas na NBR 5419-4",
+   "modulo": "modulo-07"
   },
   {
    "n": 55,
@@ -814,7 +868,8 @@
     "E": "algodão"
    },
    "resposta": "A",
-   "explicacao": "XLPE: 90 °C e boa resistência mecânica"
+   "explicacao": "XLPE: 90 °C e boa resistência mecânica",
+   "modulo": "modulo-07"
   },
   {
    "n": 56,
@@ -828,7 +883,8 @@
     "E": "2,2 kΩ"
    },
    "resposta": "C",
-   "explicacao": "720 Ω ≤ R ≤ 1,33 kΩ"
+   "explicacao": "720 Ω ≤ R ≤ 1,33 kΩ",
+   "modulo": "modulo-08"
   },
   {
    "n": 57,
@@ -842,7 +898,8 @@
     "E": "2.000"
    },
    "resposta": "C",
-   "explicacao": "K = 10 × 20"
+   "explicacao": "K = 10 × 20",
+   "modulo": "modulo-08"
   },
   {
    "n": 58,
@@ -856,7 +913,8 @@
     "E": "de alarme"
    },
    "resposta": "B",
-   "explicacao": "Erro em regime pede ação integral"
+   "explicacao": "Erro em regime pede ação integral",
+   "modulo": "modulo-08"
   },
   {
    "n": 59,
@@ -870,7 +928,8 @@
     "E": "o treinamento de reciclagem"
    },
    "resposta": "A",
-   "explicacao": "Desenergização vem primeiro"
+   "explicacao": "Desenergização vem primeiro",
+   "modulo": "modulo-09"
   },
   {
    "n": 60,
@@ -884,7 +943,8 @@
     "E": "Prontuário de Instalações Elétricas"
    },
    "resposta": "E",
-   "explicacao": "Prontuário acima de 75 kW"
+   "explicacao": "Prontuário acima de 75 kW",
+   "modulo": "modulo-09"
   }
  ]
 }

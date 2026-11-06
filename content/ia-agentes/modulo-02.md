@@ -4,9 +4,9 @@
 
 | Letra | Significa | Exemplo |
 | --- | --- | --- |
-| **O** | Objetivo | Corrigir a rejeição do cadastro por bairro acima do limite |
-| **C** | Contexto | Card SUP-12, cliente GMI, rejeição em `PCCLIENTFV` |
-| **R** | Restrições | Não alterar o limite da SEFAZ nem responder ao cliente |
+| **O** | Objetivo | Corrigir a rejeição do cadastro quando o endereço passa do limite de caracteres |
+| **C** | Contexto | Chamado nº 12, mensagem de erro e tabela `clientes` |
+| **R** | Restrições | Não alterar o limite exigido pelo órgão fiscal nem responder ao cliente |
 | **V** | Verificação | Teste nomeado passa e o log mostra o motivo |
 | **E** | Evidência | Mostrar comando, saída e `arquivo:linha` |
 
@@ -33,7 +33,7 @@ A sigla é um recurso de memorização desta trilha, não um padrão oficial.
 ### Exemplo
 
 ```text
-Objetivo: descobrir por que SUP-12 não internalizou.
+Objetivo: descobrir por que o pedido do chamado nº 12 não foi importado.
 Contexto: leia o chamado, os comentários públicos e a documentação do sistema.
 Restrições: somente leitura; não escreva no gerenciador de tarefas nem no banco.
 Verificação: cada hipótese precisa de um log ou trecho de código.
@@ -41,3 +41,12 @@ Evidência: responda com fato, inferência e próximo passo.
 ```
 
 **Exercício:** reescreva três pedidos seus da última semana usando OCRVE e compare quantas correções cada um precisou.
+
+```questao
+Na sigla OCRVE desta trilha, a letra V significa
+A) Velocidade
+B) Versão
+*C) Verificação
+D) Variável
+> V de Verificação: dizer como provar que a tarefa deu certo, por exemplo um teste que precisa passar.
+```

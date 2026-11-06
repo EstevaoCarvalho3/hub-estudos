@@ -101,6 +101,15 @@ A notação varia entre edições e empresas. Confira esses símbolos em uma tab
 
 Ferramentas CAD organizam o desenho em camadas (layers), blocos reutilizáveis e escalas de plotagem. Os formatos usuais são DWG e DXF. O desenho é feito em escala real e ajustado na folha de impressão.
 
+```questao
+Pela ISA S5.1, a primeira letra P em um tag como PT indica
+A) potência
+B) posição
+*C) pressão
+D) programa
+> A primeira letra é a variável medida. PT é um transmissor de pressão.
+```
+
 ### Armadilhas de prova
 
 - Ler o tag pela última letra. FT é transmissor de vazão, não o contrário.

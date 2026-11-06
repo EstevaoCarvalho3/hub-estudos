@@ -28,3 +28,12 @@
 - A cada novo modelo: refaça a tabela de modelo e esforço.
 
 **Exercício:** escolha uma regra do seu `CLAUDE.md`. Teste a mesma tarefa com e sem ela. Mantenha a regra apenas se fizer diferença.
+
+```questao
+Segundo este módulo, a tendência mais útil no uso de agentes é
+A) escrever instruções cada vez mais longas
+*B) trocar instrução longa por contexto mínimo, verificação e controle real
+C) aprovar manualmente cada ação
+D) evitar testes automatizados
+> Estudos recentes indicam que arquivos de instrução longos podem piorar e encarecer o resultado. Verificação e controle dão o sinal de que funcionou.
+```

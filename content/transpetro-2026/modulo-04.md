@@ -114,6 +114,15 @@ Os três ramos: científica (padrões de mais alto nível), industrial (produç�
 
 Erro = indicação − valor verdadeiro. Correção = −erro. Exemplo: leitura de 102 kPa com padrão de 100 kPa tem erro de +2 kPa e correção de −2 kPa.
 
+```questao
+Um transmissor de 0 a 100 °C com saída de 4 a 20 mA indica 12 mA. A temperatura é
+A) 25 °C
+*B) 50 °C
+C) 60 °C
+D) 75 °C
+> (12 − 4) / 16 = 0,5, ou seja, 50% da faixa: 50 °C. Esquecer o zero vivo de 4 mA leva a 60 °C.
+```
+
 ### Armadilhas de prova
 
 - Usar g/cm³ em ρ·g·h sem converter. Lembre: 0,8 g/cm³ = 800 kg/m³.

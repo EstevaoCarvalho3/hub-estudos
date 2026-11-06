@@ -15,6 +15,15 @@ Exemplo de comparador: referência de 4 V na entrada inversora e sinal Vi na nã
 | Não inversor | 1 + Rf/Ri |
 | Seguidor | 1 |
 
+```questao
+A queda de tensão típica de um diodo de silício conduzindo diretamente é de cerca de
+A) 0,2 V
+*B) 0,7 V
+C) 1,5 V
+D) 5 V
+> Diodos de silício caem cerca de 0,7 V. Os de germânio, cerca de 0,3 V, e LEDs, de 1,8 V a 3 V.
+```
+
 ### Eletrônica digital
 
 ```latex
@@ -38,6 +47,15 @@ Exemplo: 12 V, entrada com 4 kΩ, nível alto a partir de 9 V e no máximo 0,2 W
 O CLP repete o ciclo: lê as entradas, executa o programa e atualiza as saídas. As linguagens da IEC 61131-3 são Ladder, Diagrama de Blocos, Texto Estruturado, Lista de Instruções e SFC. No Ladder, contatos em série fazem E; em paralelo, OU.
 
 Na pirâmide da automação, o nível de campo tem sensores e atuadores; acima vêm controle (CLP), supervisão (SCADA), gestão da produção e gestão corporativa.
+
+```questao
+A ordem do ciclo de varredura de um CLP é
+A) executar o programa, ler entradas e atualizar saídas
+*B) ler entradas, executar o programa e atualizar saídas
+C) atualizar saídas, ler entradas e executar o programa
+D) ler entradas e atualizar saídas, sem executar o programa
+> O CLP congela uma imagem das entradas, executa a lógica sobre ela e só então escreve nas saídas.
+```
 
 ### Controle em malha fechada
 

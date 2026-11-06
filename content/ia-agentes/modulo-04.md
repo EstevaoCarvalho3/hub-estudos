@@ -29,3 +29,12 @@
 - Prefira poucas passagens de bastão. Um levantamento cita [falhas frequentes acima de quatro handoffs](https://marmelab.com/blog/2026/09/24/the-state-of-ai-harness-engineering-2026.html), mas essa é uma fonte secundária.
 
 **Exercício:** classifique cinco tarefas recorrentes suas em uma linha da segunda tabela. Crie uma skill apenas para a que mais se repete.
+
+```questao
+A orientação da Anthropic para montar workflows de agentes é
+A) começar sempre com vários agentes em paralelo
+*B) usar a solução mais simples e só adicionar complexidade quando ela melhora o resultado de forma demonstrável
+C) evitar ferramentas externas
+D) usar sempre um orquestrador
+> Mais agentes e mais passos custam mais e erram de formas novas. Só vale quando o ganho é medido.
+```
