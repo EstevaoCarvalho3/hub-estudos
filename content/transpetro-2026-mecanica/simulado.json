@@ -1,0 +1,950 @@
+{
+ "titulo": "Simulado no estilo Cesgranrio",
+ "descricao": "60 questões inéditas: as 20 gerais comuns a todas as ênfases e 40 específicas de Mecânica. Faça em 4 horas, sem calculadora.",
+ "minutos": 240,
+ "passagens": {
+  "texto1": "Poucos brasileiros percebem, mas boa parte do combustível que abastece o país viaja debaixo da terra. Os dutos ligam refinarias, terminais e portos em silêncio, longe dos olhos do público. Por isso, costumam ser lembrados apenas quando algo dá errado.\n\nEmbora pareça simples, essa rede exige vigilância constante. Sensores acompanham pressão e vazão a cada instante, e equipes percorrem as faixas para identificar ameaças. Assim, pequenas anomalias são tratadas antes que se transformem em acidentes.\n\nHá quem defenda que a automação dispensará o trabalho humano. Contudo, os técnicos lembram que nenhum algoritmo substitui a experiência de quem conhece cada trecho da linha. A tecnologia amplia o olhar do profissional; não o elimina."
+ },
+ "blocos": [
+  {
+   "id": "portugues",
+   "titulo": "Língua Portuguesa"
+  },
+  {
+   "id": "matematica",
+   "titulo": "Matemática"
+  },
+  {
+   "id": "especificas",
+   "titulo": "Conhecimentos Específicos"
+  }
+ ],
+ "grupos": [
+  {
+   "titulo": "Conhecimentos Gerais",
+   "blocos": [
+    "portugues",
+    "matematica"
+   ],
+   "minimo": 10,
+   "meta": 14,
+   "naoZerar": true
+  },
+  {
+   "titulo": "Conhecimentos Específicos",
+   "blocos": [
+    "especificas"
+   ],
+   "minimo": 20,
+   "meta": 32,
+   "naoZerar": false
+  }
+ ],
+ "questoes": [
+  {
+   "n": 1,
+   "bloco": "portugues",
+   "enunciado": "O texto tem como ideia central a",
+   "alternativas": {
+    "A": "substituição gradual dos técnicos por algoritmos",
+    "B": "defesa de novos dutos entre refinarias e portos",
+    "C": "dependência dos dutos de tecnologia e de vigilância humana",
+    "D": "denúncia de acidentes frequentes nas faixas de dutos",
+    "E": "falta de interesse do público pelos combustíveis"
+   },
+   "resposta": "C",
+   "explicacao": "O texto cobre vigilância, sensores e experiência humana",
+   "passagem": "texto1",
+   "modulo": "modulo-15"
+  },
+  {
+   "n": 2,
+   "bloco": "portugues",
+   "enunciado": "Em \"Por isso, costumam ser lembrados\" (parágrafo 1), a expressão destacada indica relação de",
+   "alternativas": {
+    "A": "tempo",
+    "B": "condição",
+    "C": "concessão",
+    "D": "finalidade",
+    "E": "conclusão"
+   },
+   "resposta": "E",
+   "explicacao": "\"Por isso\" conclui a frase anterior",
+   "passagem": "texto1",
+   "modulo": "modulo-15"
+  },
+  {
+   "n": 3,
+   "bloco": "portugues",
+   "enunciado": "Em \"Embora pareça simples\" (parágrafo 2), a palavra destacada expressa",
+   "alternativas": {
+    "A": "concessão",
+    "B": "causa",
+    "C": "adição",
+    "D": "comparação",
+    "E": "proporcionalidade"
+   },
+   "resposta": "A",
+   "explicacao": "\"Embora\" admite um obstáculo que não impede o fato",
+   "passagem": "texto1",
+   "modulo": "modulo-15"
+  },
+  {
+   "n": 4,
+   "bloco": "portugues",
+   "enunciado": "Sem alterar o sentido, \"Contudo\" (parágrafo 3) pode ser substituído por",
+   "alternativas": {
+    "A": "Porque",
+    "B": "Portanto",
+    "C": "Quando",
+    "D": "Entretanto",
+    "E": "Além disso"
+   },
+   "resposta": "D",
+   "explicacao": "\"Contudo\" e \"entretanto\" indicam oposição",
+   "passagem": "texto1",
+   "modulo": "modulo-15"
+  },
+  {
+   "n": 5,
+   "bloco": "portugues",
+   "enunciado": "Em \"não o elimina\" (parágrafo 3), a palavra \"o\" retoma",
+   "alternativas": {
+    "A": "a tecnologia",
+    "B": "o profissional",
+    "C": "o algoritmo",
+    "D": "o olhar",
+    "E": "o trecho"
+   },
+   "resposta": "B",
+   "explicacao": "A tecnologia amplia o olhar e não elimina o profissional",
+   "passagem": "texto1",
+   "modulo": "modulo-15"
+  },
+  {
+   "n": 6,
+   "bloco": "portugues",
+   "enunciado": "O acento indicativo de crase está correto em:",
+   "alternativas": {
+    "A": "O técnico começou à trabalhar cedo.",
+    "B": "A equipe entregou o laudo à ele.",
+    "C": "Os técnicos chegaram à conclusão esperada.",
+    "D": "O sensor foi enviado à algumas unidades.",
+    "E": "A válvula foi fechada à mando do operador."
+   },
+   "resposta": "C",
+   "explicacao": "Chegar a + a conclusão; as demais têm verbo, pronome ou masculino",
+   "modulo": "modulo-15"
+  },
+  {
+   "n": 7,
+   "bloco": "portugues",
+   "enunciado": "A concordância verbal está de acordo com a norma-padrão em:",
+   "alternativas": {
+    "A": "Fazem dois anos que o duto foi inspecionado.",
+    "B": "Haviam muitas falhas no relatório.",
+    "C": "Deve existir soluções mais baratas.",
+    "D": "Aluga-se equipamentos de medição.",
+    "E": "Houve falhas nos dois transmissores."
+   },
+   "resposta": "E",
+   "explicacao": "Haver no sentido de existir fica no singular",
+   "modulo": "modulo-15"
+  },
+  {
+   "n": 8,
+   "bloco": "portugues",
+   "enunciado": "A vírgula está empregada corretamente em:",
+   "alternativas": {
+    "A": "Na manhã seguinte, a equipe revisou o painel.",
+    "B": "A equipe de manutenção, revisou o painel.",
+    "C": "O técnico substituiu, o transmissor de pressão.",
+    "D": "Os relatórios que chegaram ontem, foram arquivados.",
+    "E": "O supervisor entregou, as ordens aos técnicos."
+   },
+   "resposta": "A",
+   "explicacao": "Vírgula isola adjunto deslocado; as demais separam termos essenciais",
+   "modulo": "modulo-15"
+  },
+  {
+   "n": 9,
+   "bloco": "portugues",
+   "enunciado": "Todas as palavras estão grafadas corretamente em:",
+   "alternativas": {
+    "A": "exessão, análize, previlégio",
+    "B": "exceção, análize, privilégio",
+    "C": "exceção, análise, previlégio",
+    "D": "exceção, análise, privilégio",
+    "E": "excessão, análise, privilégio"
+   },
+   "resposta": "D",
+   "explicacao": "Exceção, análise, privilégio",
+   "modulo": "modulo-15"
+  },
+  {
+   "n": 10,
+   "bloco": "portugues",
+   "enunciado": "No texto, \"anomalias\" tem sentido equivalente a",
+   "alternativas": {
+    "A": "regularidades",
+    "B": "irregularidades",
+    "C": "reparos",
+    "D": "medições",
+    "E": "equipes"
+   },
+   "resposta": "B",
+   "explicacao": "Anomalia é desvio do normal",
+   "modulo": "modulo-15"
+  },
+  {
+   "n": 11,
+   "bloco": "matematica",
+   "enunciado": "Seis técnicos, trabalhando 6 h por dia, fazem um serviço em 8 dias. Quatro técnicos, trabalhando 8 h por dia, farão o mesmo serviço em quantos dias?",
+   "alternativas": {
+    "A": "6",
+    "B": "8",
+    "C": "9",
+    "D": "10",
+    "E": "12"
+   },
+   "resposta": "C",
+   "explicacao": "8 × 6/4 × 6/8 = 9",
+   "modulo": "modulo-16"
+  },
+  {
+   "n": 12,
+   "bloco": "matematica",
+   "enunciado": "Um preço sobe 20% e, em seguida, cai 20%. A variação total foi de",
+   "alternativas": {
+    "A": "0%",
+    "B": "−4%",
+    "C": "+4%",
+    "D": "−2%",
+    "E": "+2%"
+   },
+   "resposta": "B",
+   "explicacao": "1,2 × 0,8 = 0,96",
+   "modulo": "modulo-16"
+  },
+  {
+   "n": 13,
+   "bloco": "matematica",
+   "enunciado": "R$ 1.000,00 aplicados a juros compostos de 10% ao mês, por 2 meses, geram montante de",
+   "alternativas": {
+    "A": "R$ 1.100,00",
+    "B": "R$ 1.120,00",
+    "C": "R$ 1.200,00",
+    "D": "R$ 1.210,00",
+    "E": "R$ 1.331,00"
+   },
+   "resposta": "D",
+   "explicacao": "1.000 × 1,1² = 1.210",
+   "modulo": "modulo-16"
+  },
+  {
+   "n": 14,
+   "bloco": "matematica",
+   "enunciado": "Se 2 elevado a (x + 1) é igual a 32, então x vale",
+   "alternativas": {
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "15",
+    "E": "31"
+   },
+   "resposta": "A",
+   "explicacao": "32 = 2⁵, então x + 1 = 5",
+   "modulo": "modulo-16"
+  },
+  {
+   "n": 15,
+   "bloco": "matematica",
+   "enunciado": "A maior raiz de x² − 5x + 6 = 0 é",
+   "alternativas": {
+    "A": "−3",
+    "B": "−2",
+    "C": "1",
+    "D": "2",
+    "E": "3"
+   },
+   "resposta": "E",
+   "explicacao": "Raízes 2 e 3",
+   "modulo": "modulo-16"
+  },
+  {
+   "n": 16,
+   "bloco": "matematica",
+   "enunciado": "De quantas formas se escolhem 3 técnicos entre 6, sem ordem?",
+   "alternativas": {
+    "A": "6",
+    "B": "18",
+    "C": "20",
+    "D": "120",
+    "E": "720"
+   },
+   "resposta": "C",
+   "explicacao": "C(6,3) = 20",
+   "modulo": "modulo-16"
+  },
+  {
+   "n": 17,
+   "bloco": "matematica",
+   "enunciado": "Dois dados comuns são lançados. A probabilidade de a soma ser 7 é",
+   "alternativas": {
+    "A": "1/6",
+    "B": "1/12",
+    "C": "1/36",
+    "D": "7/36",
+    "E": "5/36"
+   },
+   "resposta": "A",
+   "explicacao": "6 casos em 36",
+   "modulo": "modulo-16"
+  },
+  {
+   "n": 18,
+   "bloco": "matematica",
+   "enunciado": "Para os dados 2, 4, 4, 6 e 9, a diferença entre a média e a mediana é",
+   "alternativas": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "3",
+    "E": "5"
+   },
+   "resposta": "B",
+   "explicacao": "Média 5 e mediana 4",
+   "modulo": "modulo-16"
+  },
+  {
+   "n": 19,
+   "bloco": "matematica",
+   "enunciado": "Um triângulo retângulo tem catetos 6 e 8. A altura relativa à hipotenusa mede",
+   "alternativas": {
+    "A": "2,4",
+    "B": "3,6",
+    "C": "4,0",
+    "D": "4,8",
+    "E": "5,0"
+   },
+   "resposta": "D",
+   "explicacao": "h = 6 × 8 / 10",
+   "modulo": "modulo-16"
+  },
+  {
+   "n": 20,
+   "bloco": "matematica",
+   "enunciado": "Um tanque cilíndrico tem raio de 2 m e altura de 5 m. Seu volume, em m³, é",
+   "alternativas": {
+    "A": "4π",
+    "B": "5π",
+    "C": "10π",
+    "D": "14π",
+    "E": "20π"
+   },
+   "resposta": "E",
+   "explicacao": "π × 4 × 5",
+   "modulo": "modulo-16"
+  },
+  {
+   "n": 21,
+   "bloco": "especificas",
+   "modulo": "modulo-01",
+   "enunciado": "Um micrômetro tem fuso com passo de 0,5 mm e tambor dividido em 50 partes. Sua resolução é",
+   "alternativas": {
+    "A": "0,1 mm",
+    "B": "0,05 mm",
+    "C": "0,001 mm",
+    "D": "0,02 mm",
+    "E": "0,01 mm"
+   },
+   "resposta": "E",
+   "explicacao": "Resolução = passo ÷ divisões do tambor = 0,5 / 50 = 0,01 mm."
+  },
+  {
+   "n": 22,
+   "bloco": "especificas",
+   "modulo": "modulo-01",
+   "enunciado": "No sistema ISO furo-base, o ajuste H7/p6 é um ajuste",
+   "alternativas": {
+    "A": "livre",
+    "B": "com folga",
+    "C": "com interferência",
+    "D": "deslizante",
+    "E": "incerto"
+   },
+   "resposta": "C",
+   "explicacao": "As letras p, r e s no eixo, com furo H, resultam em eixo sempre maior que o furo: interferência."
+  },
+  {
+   "n": 23,
+   "bloco": "especificas",
+   "modulo": "modulo-01",
+   "enunciado": "Uma pressão de 3 bar, expressa em kPa, vale",
+   "alternativas": {
+    "A": "300",
+    "B": "3.000",
+    "C": "0,3",
+    "D": "3",
+    "E": "30"
+   },
+   "resposta": "A",
+   "explicacao": "1 bar = 100 kPa, logo 3 bar = 300 kPa."
+  },
+  {
+   "n": 24,
+   "bloco": "especificas",
+   "modulo": "modulo-02",
+   "enunciado": "O medidor de vazão que mede diretamente a vazão mássica, sem depender de densidade informada, é o",
+   "alternativas": {
+    "A": "turbina",
+    "B": "Coriolis",
+    "C": "placa de orifício",
+    "D": "Venturi",
+    "E": "rotâmetro"
+   },
+   "resposta": "B",
+   "explicacao": "O Coriolis mede a torção de tubos vibrando, proporcional à massa que passa. Os demais medem vazão volumétrica ou Δp."
+  },
+  {
+   "n": 25,
+   "bloco": "especificas",
+   "modulo": "modulo-02",
+   "enunciado": "Para medir temperaturas abaixo de 0 °C com termopar, o tipo mais indicado é o",
+   "alternativas": {
+    "A": "R",
+    "B": "S",
+    "C": "T",
+    "D": "J",
+    "E": "B"
+   },
+   "resposta": "C",
+   "explicacao": "O tipo T (cobre-constantan) é o indicado para baixas temperaturas. R, S e B são para temperaturas muito altas."
+  },
+  {
+   "n": 26,
+   "bloco": "especificas",
+   "modulo": "modulo-03",
+   "enunciado": "Um corpo parte do repouso com aceleração constante de 2 m/s². A distância percorrida em 5 s é de",
+   "alternativas": {
+    "A": "10 m",
+    "B": "50 m",
+    "C": "100 m",
+    "D": "25 m",
+    "E": "5 m"
+   },
+   "resposta": "D",
+   "explicacao": "s = a t²/2 = 2 × 25 / 2 = 25 m."
+  },
+  {
+   "n": 27,
+   "bloco": "especificas",
+   "modulo": "modulo-03",
+   "enunciado": "Um sistema com duas polias móveis ideais eleva uma carga de 800 N. A força necessária é de",
+   "alternativas": {
+    "A": "1.600 N",
+    "B": "100 N",
+    "C": "800 N",
+    "D": "400 N",
+    "E": "200 N"
+   },
+   "resposta": "E",
+   "explicacao": "Cada polia móvel divide a força por 2: 800 / 2² = 200 N."
+  },
+  {
+   "n": 28,
+   "bloco": "especificas",
+   "modulo": "modulo-03",
+   "enunciado": "Uma roda de raio 0,3 m gira a 600 rpm. Usando π = 3, a velocidade periférica é de",
+   "alternativas": {
+    "A": "18 m/s",
+    "B": "1,8 m/s",
+    "C": "6 m/s",
+    "D": "180 m/s",
+    "E": "60 m/s"
+   },
+   "resposta": "A",
+   "explicacao": "ω = 2π × 600/60 = 20π = 60 rad/s. v = ω r = 60 × 0,3 = 18 m/s."
+  },
+  {
+   "n": 29,
+   "bloco": "especificas",
+   "modulo": "modulo-03",
+   "enunciado": "Uma carga de 50 kg é erguida 4 m em 10 s, com velocidade constante. Com g = 10 m/s², a potência útil é de",
+   "alternativas": {
+    "A": "2.000 W",
+    "B": "500 W",
+    "C": "50 W",
+    "D": "200 W",
+    "E": "20 W"
+   },
+   "resposta": "D",
+   "explicacao": "W = m g h = 50 × 10 × 4 = 2.000 J. P = 2.000 / 10 = 200 W."
+  },
+  {
+   "n": 30,
+   "bloco": "especificas",
+   "modulo": "modulo-04",
+   "enunciado": "Uma barra de aço de 1 m e seção de 100 mm² recebe tração de 10 kN. Com E = 200 GPa, o alongamento é de",
+   "alternativas": {
+    "A": "5 mm",
+    "B": "0,5 mm",
+    "C": "0,05 mm",
+    "D": "1 mm",
+    "E": "0,1 mm"
+   },
+   "resposta": "B",
+   "explicacao": "ΔL = F L / (E A) = 10.000 × 1.000 / (200.000 × 100) = 0,5 mm, com E em N/mm²."
+  },
+  {
+   "n": 31,
+   "bloco": "especificas",
+   "modulo": "modulo-04",
+   "enunciado": "Se o diâmetro de um eixo maciço for dobrado, mantido o torque, a tensão máxima de cisalhamento por torção fica",
+   "alternativas": {
+    "A": "dividida por 16",
+    "B": "dividida por 8",
+    "C": "multiplicada por 2",
+    "D": "dividida por 4",
+    "E": "dividida por 2"
+   },
+   "resposta": "B",
+   "explicacao": "τ = 16 T / (π d³). Dobrar d multiplica d³ por 8."
+  },
+  {
+   "n": 32,
+   "bloco": "especificas",
+   "modulo": "modulo-04",
+   "enunciado": "Uma viga em balanço de 2 m recebe 500 N na extremidade livre. O momento fletor máximo, no engaste, é de",
+   "alternativas": {
+    "A": "250 N·m",
+    "B": "500 N·m",
+    "C": "2.000 N·m",
+    "D": "1.000 N·m",
+    "E": "125 N·m"
+   },
+   "resposta": "D",
+   "explicacao": "Em balanço, M máx = P × L = 500 × 2 = 1.000 N·m."
+  },
+  {
+   "n": 33,
+   "bloco": "especificas",
+   "modulo": "modulo-05",
+   "enunciado": "O rolamento indicado para cargas radiais e axiais combinadas, normalmente montado aos pares, é o de",
+   "alternativas": {
+    "A": "rolos cilíndricos",
+    "B": "esferas axial",
+    "C": "rolos cônicos",
+    "D": "agulhas",
+    "E": "esferas autocompensador"
+   },
+   "resposta": "C",
+   "explicacao": "Os rolos cônicos suportam carga combinada; montados aos pares, absorvem a axial nos dois sentidos."
+  },
+  {
+   "n": 34,
+   "bloco": "especificas",
+   "modulo": "modulo-05",
+   "enunciado": "Uma polia motora de 100 mm gira a 1.800 rpm e aciona por correia uma polia de 300 mm. A rotação da polia movida é de",
+   "alternativas": {
+    "A": "600 rpm",
+    "B": "300 rpm",
+    "C": "5.400 rpm",
+    "D": "900 rpm",
+    "E": "1.800 rpm"
+   },
+   "resposta": "A",
+   "explicacao": "n₂ = n₁ × d₁ / d₂ = 1.800 × 100 / 300 = 600 rpm."
+  },
+  {
+   "n": 35,
+   "bloco": "especificas",
+   "modulo": "modulo-05",
+   "enunciado": "Uma engrenagem cilíndrica de dentes retos tem módulo 2 e 30 dentes. O diâmetro externo é de",
+   "alternativas": {
+    "A": "62 mm",
+    "B": "56 mm",
+    "C": "32 mm",
+    "D": "64 mm",
+    "E": "60 mm"
+   },
+   "resposta": "D",
+   "explicacao": "dp = m z = 60 mm; de = m (z + 2) = 2 × 32 = 64 mm."
+  },
+  {
+   "n": 36,
+   "bloco": "especificas",
+   "modulo": "modulo-05",
+   "enunciado": "Para transmitir movimento entre eixos reversos com grande redução em um só estágio, usa-se o par",
+   "alternativas": {
+    "A": "de engrenagens de dentes retos",
+    "B": "coroa e sem-fim",
+    "C": "pinhão e cremalheira",
+    "D": "de engrenagens cônicas",
+    "E": "de engrenagens helicoidais paralelas"
+   },
+   "resposta": "B",
+   "explicacao": "Coroa e sem-fim trabalha com eixos que não se cruzam e permite reduções de 10:1 a 100:1 num estágio."
+  },
+  {
+   "n": 37,
+   "bloco": "especificas",
+   "modulo": "modulo-06",
+   "enunciado": "Água escoa a 2 m/s num tubo de seção 0,01 m². A vazão é de",
+   "alternativas": {
+    "A": "2 L/s",
+    "B": "50 L/s",
+    "C": "200 L/s",
+    "D": "20 L/s",
+    "E": "0,2 L/s"
+   },
+   "resposta": "D",
+   "explicacao": "Q = A v = 0,01 × 2 = 0,02 m³/s = 20 L/s."
+  },
+  {
+   "n": 38,
+   "bloco": "especificas",
+   "modulo": "modulo-06",
+   "enunciado": "Numa redução, o diâmetro interno do tubo cai pela metade. Para fluido incompressível, a velocidade fica",
+   "alternativas": {
+    "A": "multiplicada por 2",
+    "B": "igual",
+    "C": "multiplicada por 4",
+    "D": "dividida por 2",
+    "E": "dividida por 4"
+   },
+   "resposta": "C",
+   "explicacao": "A área é proporcional a d². Metade do diâmetro dá um quarto da área e, pela continuidade, quatro vezes a velocidade."
+  },
+  {
+   "n": 39,
+   "bloco": "especificas",
+   "modulo": "modulo-06",
+   "enunciado": "Água com viscosidade cinemática de 1 × 10⁻⁶ m²/s escoa a 1 m/s num tubo de 0,1 m. O número de Reynolds e o regime são",
+   "alternativas": {
+    "A": "100.000, turbulento",
+    "B": "100.000, laminar",
+    "C": "2.000, transição",
+    "D": "10.000, laminar",
+    "E": "1.000, laminar"
+   },
+   "resposta": "A",
+   "explicacao": "Re = v D / ν = 1 × 0,1 / 10⁻⁶ = 100.000, bem acima de 4.000: turbulento."
+  },
+  {
+   "n": 40,
+   "bloco": "especificas",
+   "modulo": "modulo-07",
+   "enunciado": "Na classificação NLGI de graxas, o número 2 indica a",
+   "alternativas": {
+    "A": "consistência",
+    "B": "temperatura máxima",
+    "C": "cor da graxa",
+    "D": "quantidade de aditivo EP",
+    "E": "viscosidade do óleo base"
+   },
+   "resposta": "A",
+   "explicacao": "A escala NLGI vai de 000 (fluida) a 6 (dura) e mede consistência."
+  },
+  {
+   "n": 41,
+   "bloco": "especificas",
+   "modulo": "modulo-07",
+   "enunciado": "Engrenagens industriais com cargas altas e choques pedem óleo com aditivo",
+   "alternativas": {
+    "A": "de extrema pressão (EP)",
+    "B": "abaixador do ponto de fluidez",
+    "C": "detergente",
+    "D": "melhorador de índice de viscosidade",
+    "E": "antiespumante apenas"
+   },
+   "resposta": "A",
+   "explicacao": "Os aditivos EP, à base de enxofre e fósforo, reagem com o metal e evitam soldagem entre dentes sob carga alta."
+  },
+  {
+   "n": 42,
+   "bloco": "especificas",
+   "modulo": "modulo-08",
+   "enunciado": "Um cilindro hidráulico tem área de 50 cm² e recebe 80 bar. A força de avanço é de",
+   "alternativas": {
+    "A": "4 kN",
+    "B": "40 kN",
+    "C": "16 kN",
+    "D": "1,6 kN",
+    "E": "400 kN"
+   },
+   "resposta": "B",
+   "explicacao": "80 bar = 8 N/mm² e 50 cm² = 5.000 mm². F = 8 × 5.000 = 40.000 N."
+  },
+  {
+   "n": 43,
+   "bloco": "especificas",
+   "modulo": "modulo-08",
+   "enunciado": "Em uma bomba centrífuga, a cavitação ocorre quando",
+   "alternativas": {
+    "A": "a bomba opera escorvada",
+    "B": "o NPSH disponível é maior que o requerido",
+    "C": "a válvula de descarga é fechada rapidamente",
+    "D": "a rotação é reduzida",
+    "E": "a pressão na sucção cai abaixo da pressão de vapor do líquido"
+   },
+   "resposta": "E",
+   "explicacao": "Abaixo da pressão de vapor, formam-se bolhas que implodem no rotor. Para evitar, NPSH disponível deve superar o requerido."
+  },
+  {
+   "n": 44,
+   "bloco": "especificas",
+   "modulo": "modulo-08",
+   "enunciado": "A válvula mais indicada para regulagem fina de vazão, com boa vedação, é a",
+   "alternativas": {
+    "A": "retenção",
+    "B": "esfera de passagem plena",
+    "C": "gaveta",
+    "D": "de segurança",
+    "E": "globo"
+   },
+   "resposta": "E",
+   "explicacao": "A globo foi feita para regular. A gaveta é só de bloqueio e se desgasta se ficar parcialmente aberta."
+  },
+  {
+   "n": 45,
+   "bloco": "especificas",
+   "modulo": "modulo-09",
+   "enunciado": "No ciclo Brayton de uma turbina a gás, a sequência dos equipamentos é",
+   "alternativas": {
+    "A": "turbina, compressor e câmara de combustão",
+    "B": "bomba, caldeira, turbina e condensador",
+    "C": "câmara de combustão, compressor e turbina",
+    "D": "compressor, câmara de combustão e turbina",
+    "E": "caldeira, compressor e turbina"
+   },
+   "resposta": "D",
+   "explicacao": "O ar é comprimido, recebe combustível e queima, e os gases quentes expandem na turbina. Bomba, caldeira e condensador são do Rankine."
+  },
+  {
+   "n": 46,
+   "bloco": "especificas",
+   "modulo": "modulo-09",
+   "enunciado": "Para aquecer 10 kg de água de 20 °C para 70 °C, com c = 4,2 kJ/(kg·°C), são necessários",
+   "alternativas": {
+    "A": "4.200 kJ",
+    "B": "2.940 kJ",
+    "C": "210 kJ",
+    "D": "840 kJ",
+    "E": "2.100 kJ"
+   },
+   "resposta": "E",
+   "explicacao": "Q = m c ΔT = 10 × 4,2 × 50 = 2.100 kJ."
+  },
+  {
+   "n": 47,
+   "bloco": "especificas",
+   "modulo": "modulo-09",
+   "enunciado": "No motor do ciclo Diesel, a combustão começa",
+   "alternativas": {
+    "A": "no tempo de exaustão",
+    "B": "pela centelha da vela",
+    "C": "pelo aquecimento do escapamento",
+    "D": "pela autoignição do combustível injetado no ar quente comprimido",
+    "E": "na admissão da mistura ar e combustível"
+   },
+   "resposta": "D",
+   "explicacao": "O Diesel admite só ar, comprime-o até aquecer e injeta o combustível, que se inflama sozinho."
+  },
+  {
+   "n": 48,
+   "bloco": "especificas",
+   "modulo": "modulo-10",
+   "enunciado": "O constituinte de alta dureza formado no resfriamento rápido da austenita é a",
+   "alternativas": {
+    "A": "perlita",
+    "B": "ferrita",
+    "C": "martensita",
+    "D": "cementita globular",
+    "E": "austenita retida"
+   },
+   "resposta": "C",
+   "explicacao": "A têmpera transforma a austenita em martensita. Perlita surge no resfriamento lento."
+  },
+  {
+   "n": 49,
+   "bloco": "especificas",
+   "modulo": "modulo-10",
+   "enunciado": "O aço SAE 1060 tem teor de carbono de cerca de",
+   "alternativas": {
+    "A": "1,06%",
+    "B": "0,06%",
+    "C": "10,6%",
+    "D": "6,0%",
+    "E": "0,60%"
+   },
+   "resposta": "E",
+   "explicacao": "Os dois últimos dígitos indicam centésimos de por cento: 60 = 0,60%."
+  },
+  {
+   "n": 50,
+   "bloco": "especificas",
+   "modulo": "modulo-10",
+   "enunciado": "Para endurecer a superfície de uma engrenagem de aço de baixo carbono, mantendo o núcleo tenaz, aplica-se",
+   "alternativas": {
+    "A": "cementação seguida de têmpera",
+    "B": "solubilização",
+    "C": "revenimento sem têmpera",
+    "D": "normalização",
+    "E": "recozimento pleno"
+   },
+   "resposta": "A",
+   "explicacao": "A cementação enriquece de carbono a superfície; a têmpera depois a endurece, enquanto o núcleo com pouco carbono continua tenaz."
+  },
+  {
+   "n": 51,
+   "bloco": "especificas",
+   "modulo": "modulo-11",
+   "enunciado": "Para detectar trincas superficiais e logo abaixo da superfície em um eixo de aço carbono, o ensaio não destrutivo mais indicado é o de",
+   "alternativas": {
+    "A": "dureza Brinell",
+    "B": "líquido penetrante",
+    "C": "Charpy",
+    "D": "estanqueidade",
+    "E": "partículas magnéticas"
+   },
+   "resposta": "E",
+   "explicacao": "Partículas magnéticas vê também o que está logo abaixo da superfície em material ferromagnético. O líquido penetrante só vê o que está aberto."
+  },
+  {
+   "n": 52,
+   "bloco": "especificas",
+   "modulo": "modulo-11",
+   "enunciado": "O ensaio Charpy avalia principalmente a",
+   "alternativas": {
+    "A": "condutividade térmica",
+    "B": "rugosidade",
+    "C": "resistência à fadiga",
+    "D": "tenacidade, pela energia absorvida no impacto",
+    "E": "dureza superficial"
+   },
+   "resposta": "D",
+   "explicacao": "O pêndulo rompe um corpo entalhado e mede a energia absorvida, que indica a tenacidade."
+  },
+  {
+   "n": 53,
+   "bloco": "especificas",
+   "modulo": "modulo-11",
+   "enunciado": "Um corpo de prova com 50 mm entre marcas mede 60 mm após a ruptura. O alongamento é de",
+   "alternativas": {
+    "A": "16,7%",
+    "B": "20%",
+    "C": "60%",
+    "D": "83%",
+    "E": "10%"
+   },
+   "resposta": "B",
+   "explicacao": "(60 − 50) / 50 = 0,20, ou seja, 20%."
+  },
+  {
+   "n": 54,
+   "bloco": "especificas",
+   "modulo": "modulo-12",
+   "enunciado": "O processo em que o material é puxado através de uma fieira, reduzindo o diâmetro, é a",
+   "alternativas": {
+    "A": "estampagem",
+    "B": "trefilação",
+    "C": "extrusão",
+    "D": "forjamento",
+    "E": "laminação"
+   },
+   "resposta": "B",
+   "explicacao": "Na trefilação o material é puxado; na extrusão, empurrado."
+  },
+  {
+   "n": 55,
+   "bloco": "especificas",
+   "modulo": "modulo-12",
+   "enunciado": "Uma peça de 80 mm de diâmetro é torneada a 400 rpm. Usando π = 3, a velocidade de corte é de",
+   "alternativas": {
+    "A": "9,6 m/min",
+    "B": "960 m/min",
+    "C": "120 m/min",
+    "D": "32 m/min",
+    "E": "96 m/min"
+   },
+   "resposta": "E",
+   "explicacao": "Vc = π D n / 1000 = 3 × 80 × 400 / 1000 = 96 m/min."
+  },
+  {
+   "n": 56,
+   "bloco": "especificas",
+   "modulo": "modulo-12",
+   "enunciado": "Um sulco no metal base, junto à margem do cordão de solda, é chamado de",
+   "alternativas": {
+    "A": "convexidade excessiva",
+    "B": "mordedura",
+    "C": "falta de penetração",
+    "D": "porosidade",
+    "E": "inclusão de escória"
+   },
+   "resposta": "B",
+   "explicacao": "Mordedura é o entalhe na borda do cordão, geralmente por corrente ou velocidade excessivas."
+  },
+  {
+   "n": 57,
+   "bloco": "especificas",
+   "modulo": "modulo-13",
+   "enunciado": "Em projeção ortogonal no 1º diedro, adotado pela ABNT, a vista superior fica",
+   "alternativas": {
+    "A": "à esquerda da vista frontal",
+    "B": "sobreposta à vista frontal",
+    "C": "abaixo da vista frontal",
+    "D": "acima da vista frontal",
+    "E": "à direita da vista frontal"
+   },
+   "resposta": "C",
+   "explicacao": "No 1º diedro a vista de cima é desenhada embaixo da frontal; no 3º diedro, em cima."
+  },
+  {
+   "n": 58,
+   "bloco": "especificas",
+   "modulo": "modulo-13",
+   "enunciado": "Em desenho técnico, a linha tracejada representa",
+   "alternativas": {
+    "A": "cotas",
+    "B": "hachuras",
+    "C": "arestas e contornos não visíveis",
+    "D": "arestas visíveis",
+    "E": "linhas de centro"
+   },
+   "resposta": "C",
+   "explicacao": "Tracejada é para o que está escondido; traço e ponto, para centros e simetria."
+  },
+  {
+   "n": 59,
+   "bloco": "especificas",
+   "modulo": "modulo-14",
+   "enunciado": "Um equipamento tem MTBF de 180 h e MTTR de 20 h. Sua disponibilidade é de",
+   "alternativas": {
+    "A": "90%",
+    "B": "11%",
+    "C": "80%",
+    "D": "89%",
+    "E": "95%"
+   },
+   "resposta": "A",
+   "explicacao": "D = MTBF / (MTBF + MTTR) = 180 / 200 = 0,90."
+  },
+  {
+   "n": 60,
+   "bloco": "especificas",
+   "modulo": "modulo-14",
+   "enunciado": "A norma regulamentadora que trata de caldeiras, vasos de pressão, tubulações e tanques metálicos é a",
+   "alternativas": {
+    "A": "NR-10",
+    "B": "NR-33",
+    "C": "NR-13",
+    "D": "NR-35",
+    "E": "NR-12"
+   },
+   "resposta": "C",
+   "explicacao": "NR-13. A NR-12 trata de máquinas; a NR-33, de espaços confinados; a NR-35, de trabalho em altura."
+  }
+ ]
+}

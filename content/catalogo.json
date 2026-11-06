@@ -176,6 +176,121 @@
    "tipo": "concurso"
   },
   {
+   "id": "transpetro-2026-mecanica",
+   "tipo": "concurso",
+   "area": "Concursos",
+   "cor": "magenta",
+   "status": "ativa",
+   "titulo": "Transpetro 2026 — Manutenção Mecânica",
+   "descricao": "Processo seletivo de nível médio, Ênfase 11, banca Cesgranrio. Prova em 06/12/2026.",
+   "resumo": "Ênfase 11 · Cesgranrio · prova em 06/12/2026",
+   "materiais": [
+    {
+     "id": "resumo",
+     "titulo": "Resumo do concurso",
+     "arquivo": "resumo.md"
+    },
+    {
+     "id": "plano",
+     "titulo": "Plano de estudos",
+     "arquivo": "plano.md"
+    },
+    {
+     "id": "modulo-01",
+     "titulo": "Módulo 1 — Metrologia, SI e ajustes",
+     "arquivo": "modulo-01.md"
+    },
+    {
+     "id": "modulo-02",
+     "titulo": "Módulo 2 — Medição de pressão, nível, temperatura e vazão",
+     "arquivo": "modulo-02.md"
+    },
+    {
+     "id": "modulo-03",
+     "titulo": "Módulo 3 — Mecânica geral",
+     "arquivo": "modulo-03.md"
+    },
+    {
+     "id": "modulo-04",
+     "titulo": "Módulo 4 — Resistência dos materiais",
+     "arquivo": "modulo-04.md"
+    },
+    {
+     "id": "modulo-05",
+     "titulo": "Módulo 5 — Elementos de máquinas",
+     "arquivo": "modulo-05.md"
+    },
+    {
+     "id": "modulo-06",
+     "titulo": "Módulo 6 — Mecânica dos fluidos",
+     "arquivo": "modulo-06.md"
+    },
+    {
+     "id": "modulo-07",
+     "titulo": "Módulo 7 — Lubrificação",
+     "arquivo": "modulo-07.md"
+    },
+    {
+     "id": "modulo-08",
+     "titulo": "Módulo 8 — Hidráulica, pneumática, bombas e válvulas",
+     "arquivo": "modulo-08.md"
+    },
+    {
+     "id": "modulo-09",
+     "titulo": "Módulo 9 — Trocadores, ciclos, motores e compressores",
+     "arquivo": "modulo-09.md"
+    },
+    {
+     "id": "modulo-10",
+     "titulo": "Módulo 10 — Materiais e tratamentos térmicos",
+     "arquivo": "modulo-10.md"
+    },
+    {
+     "id": "modulo-11",
+     "titulo": "Módulo 11 — Ensaios destrutivos e não destrutivos",
+     "arquivo": "modulo-11.md"
+    },
+    {
+     "id": "modulo-12",
+     "titulo": "Módulo 12 — Fabricação e soldagem",
+     "arquivo": "modulo-12.md"
+    },
+    {
+     "id": "modulo-13",
+     "titulo": "Módulo 13 — Desenho técnico e normas",
+     "arquivo": "modulo-13.md"
+    },
+    {
+     "id": "modulo-14",
+     "titulo": "Módulo 14 — Manutenção, segurança e eletrotécnica",
+     "arquivo": "modulo-14.md"
+    },
+    {
+     "id": "modulo-15",
+     "titulo": "Módulo 15 — Língua Portuguesa",
+     "arquivo": "modulo-15.md"
+    },
+    {
+     "id": "modulo-16",
+     "titulo": "Módulo 16 — Matemática",
+     "arquivo": "modulo-16.md"
+    },
+    {
+     "id": "fontes",
+     "titulo": "Fontes",
+     "arquivo": "fontes.md"
+    }
+   ],
+   "avaliacoes": [
+    {
+     "id": "simulado",
+     "titulo": "Simulado no estilo Cesgranrio",
+     "arquivo": "simulado.json"
+    }
+   ],
+   "flashcards": "flashcards.json"
+  },
+  {
    "id": "ia-agentes",
    "titulo": "IA, Agentes, LLM e MCP",
    "descricao": "Como um LLM funciona, engenharia de contexto, agentes, workflows, MCP, Skills e tendências de 2026.",

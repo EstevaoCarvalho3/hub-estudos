@@ -1,0 +1,282 @@
+[
+ {
+  "frente": "Resolução do paquímetro",
+  "verso": "Menor divisão da escala fixa ÷ divisões do nônio"
+ },
+ {
+  "frente": "Resolução do micrômetro comum",
+  "verso": "0,01 mm (passo 0,5 mm ÷ 50 divisões)"
+ },
+ {
+  "frente": "Incerteza de medição",
+  "verso": "Intervalo de incerteza + probabilidade de abrangência"
+ },
+ {
+  "frente": "Rastreabilidade",
+  "verso": "Cadeia de calibrações até o padrão nacional"
+ },
+ {
+  "frente": "Furo-base",
+  "verso": "Furo sempre H; o eixo varia"
+ },
+ {
+  "frente": "H7/g6, H7/k6, H7/p6",
+  "verso": "Folga, incerto e interferência"
+ },
+ {
+  "frente": "Folga máxima",
+  "verso": "Furo máximo − eixo mínimo"
+ },
+ {
+  "frente": "N8",
+  "verso": "Ra = 3,2 µm"
+ },
+ {
+  "frente": "rpm para rad/s",
+  "verso": "Multiplicar por 2π/60"
+ },
+ {
+  "frente": "1 bar",
+  "verso": "100 kPa"
+ },
+ {
+  "frente": "Pt100",
+  "verso": "Platina com 100 Ω a 0 °C"
+ },
+ {
+  "frente": "Termopar T",
+  "verso": "Cobre-constantan; baixas temperaturas"
+ },
+ {
+  "frente": "Termopar K",
+  "verso": "Cromel-alumel; o mais usado"
+ },
+ {
+  "frente": "Coriolis",
+  "verso": "Mede vazão mássica diretamente"
+ },
+ {
+  "frente": "Placa de orifício",
+  "verso": "Q ∝ √Δp; alta perda de carga"
+ },
+ {
+  "frente": "Eletromagnético",
+  "verso": "Só fluidos condutores"
+ },
+ {
+  "frente": "Alavanca interpotente",
+  "verso": "Força no meio; força maior que a carga"
+ },
+ {
+  "frente": "Polias móveis",
+  "verso": "F = P / 2ⁿ"
+ },
+ {
+  "frente": "Torricelli",
+  "verso": "v² = v₀² + 2 a Δs"
+ },
+ {
+  "frente": "Velocidade periférica",
+  "verso": "v = ω r"
+ },
+ {
+  "frente": "Potência rotativa",
+  "verso": "P = T ω"
+ },
+ {
+  "frente": "Lei de Hooke",
+  "verso": "σ = E ε"
+ },
+ {
+  "frente": "Alongamento elástico",
+  "verso": "ΔL = F L / (E A)"
+ },
+ {
+  "frente": "Tensão de flexão",
+  "verso": "σ = M c / I"
+ },
+ {
+  "frente": "Momento máximo em balanço",
+  "verso": "P × L, no engaste"
+ },
+ {
+  "frente": "Torção em eixo maciço",
+  "verso": "τ = 16 T / (π d³)"
+ },
+ {
+  "frente": "Cortar uma mola",
+  "verso": "Menos espiras: rigidez aumenta"
+ },
+ {
+  "frente": "Rolamento 62XX, furo",
+  "verso": "A partir de 04: número × 5 mm"
+ },
+ {
+  "frente": "Rolos cônicos",
+  "verso": "Carga radial e axial; montados aos pares"
+ },
+ {
+  "frente": "Relação de transmissão",
+  "verso": "n₁/n₂ = d₂/d₁ = z₂/z₁"
+ },
+ {
+  "frente": "Módulo da engrenagem",
+  "verso": "m = dp / z"
+ },
+ {
+  "frente": "Diâmetro externo da engrenagem",
+  "verso": "m (z + 2)"
+ },
+ {
+  "frente": "Coroa e sem-fim",
+  "verso": "Eixos reversos; grande redução"
+ },
+ {
+  "frente": "Stevin",
+  "verso": "p = p₀ + ρ g h"
+ },
+ {
+  "frente": "Continuidade",
+  "verso": "A₁ v₁ = A₂ v₂"
+ },
+ {
+  "frente": "Reynolds laminar",
+  "verso": "Abaixo de cerca de 2.000 a 2.300"
+ },
+ {
+  "frente": "Venturi",
+  "verso": "p₁ − p₂ = ρ (v₂² − v₁²) / 2"
+ },
+ {
+  "frente": "ISO VG",
+  "verso": "Viscosidade média em cSt a 40 °C"
+ },
+ {
+  "frente": "API S e C",
+  "verso": "S gasolina; C diesel"
+ },
+ {
+  "frente": "NLGI",
+  "verso": "Consistência de graxa, 000 a 6"
+ },
+ {
+  "frente": "Aditivo EP",
+  "verso": "Extrema pressão, enxofre e fósforo"
+ },
+ {
+  "frente": "Escorva",
+  "verso": "Encher bomba e sucção de líquido antes da partida"
+ },
+ {
+  "frente": "Cavitação",
+  "verso": "Pressão na sucção abaixo da de vapor"
+ },
+ {
+  "frente": "Leis de afinidade",
+  "verso": "Q ∝ n, H ∝ n², P ∝ n³"
+ },
+ {
+  "frente": "Válvula gaveta",
+  "verso": "Só bloqueio"
+ },
+ {
+  "frente": "Válvula globo",
+  "verso": "Regulagem"
+ },
+ {
+  "frente": "Ciclo Rankine",
+  "verso": "Bomba, caldeira, turbina, condensador"
+ },
+ {
+  "frente": "Quatro tempos",
+  "verso": "Admissão, compressão, expansão, escape"
+ },
+ {
+  "frente": "Trocador de calor",
+  "verso": "Q = U A F ΔTml"
+ },
+ {
+  "frente": "Aço eutetoide",
+  "verso": "0,77% de C; 100% perlita"
+ },
+ {
+  "frente": "Martensita",
+  "verso": "Têmpera; dura e frágil"
+ },
+ {
+  "frente": "Revenimento",
+  "verso": "Após a têmpera; reduz a fragilidade"
+ },
+ {
+  "frente": "SAE 4140",
+  "verso": "Cr-Mo com 0,40% de C"
+ },
+ {
+  "frente": "Inox austenítico",
+  "verso": "304 e 316; não magnético"
+ },
+ {
+  "frente": "Estricção",
+  "verso": "(A₀ − Af) / A₀"
+ },
+ {
+  "frente": "Vickers",
+  "verso": "Pirâmide de diamante, 136°"
+ },
+ {
+  "frente": "Brinell e resistência",
+  "verso": "LR ≈ 3,45 × HB, em MPa"
+ },
+ {
+  "frente": "Partículas magnéticas",
+  "verso": "Superfície e subsuperfície; só ferromagnéticos"
+ },
+ {
+  "frente": "Fluência",
+  "verso": "Deformação lenta sob carga em alta temperatura"
+ },
+ {
+  "frente": "Velocidade de corte",
+  "verso": "Vc = π D n / 1000"
+ },
+ {
+  "frente": "Trefilação e extrusão",
+  "verso": "Puxar e empurrar"
+ },
+ {
+  "frente": "TIG",
+  "verso": "Tungstênio não consumível e gás inerte"
+ },
+ {
+  "frente": "Mordedura",
+  "verso": "Sulco na margem do cordão"
+ },
+ {
+  "frente": "1º diedro",
+  "verso": "Vista superior abaixo da frontal"
+ },
+ {
+  "frente": "Isométrica",
+  "verso": "Eixos a 120°"
+ },
+ {
+  "frente": "Disponibilidade",
+  "verso": "MTBF / (MTBF + MTTR)"
+ },
+ {
+  "frente": "Manutenção preditiva",
+  "verso": "Age pela condição medida"
+ },
+ {
+  "frente": "NR-13",
+  "verso": "Caldeiras e vasos de pressão"
+ },
+ {
+  "frente": "NR-35",
+  "verso": "Trabalho em altura acima de 2 m"
+ },
+ {
+  "frente": "Velocidade síncrona",
+  "verso": "ns = 120 f / p"
+ }
+]
