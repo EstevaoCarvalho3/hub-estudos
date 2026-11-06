@@ -35,4 +35,4 @@ Depois abra `http://localhost:8080`.
 
 ## Limitação atual
 
-Não há login nem banco de dados. As trilhas atuais são Transpetro 2026 (Eletrônica e Elétrica), IA e agentes, e Zeny ERP (vazia). Notas e progresso ficam no navegador de cada pessoa, que pode baixar um backup ou copiar o resultado para enviar.
+Não há login nem banco de dados. As trilhas atuais são Transpetro 2026 (Eletrônica e Elétrica), IA e agentes, Produto digital e Zeny ERP (vazia). Notas e progresso ficam no navegador de cada pessoa, que pode baixar um backup ou copiar o resultado para enviar.

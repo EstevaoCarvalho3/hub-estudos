@@ -225,6 +225,71 @@
    "tipo": "curso"
   },
   {
+   "id": "produto-digital",
+   "tipo": "curso",
+   "area": "Negócios",
+   "cor": "verde",
+   "status": "ativa",
+   "titulo": "Produto digital: da ideia à venda",
+   "descricao": "Validação, métricas, preço, marketing, retenção, LGPD e priorização, aplicados a um projeto real.",
+   "resumo": "7 módulos · testes rápidos · avaliação final",
+   "materiais": [
+    {
+     "id": "comece-aqui",
+     "titulo": "Comece aqui",
+     "arquivo": "comece-aqui.md"
+    },
+    {
+     "id": "modulo-01",
+     "titulo": "Módulo 1 — Do problema ao produto",
+     "arquivo": "modulo-01.md"
+    },
+    {
+     "id": "modulo-02",
+     "titulo": "Módulo 2 — Métricas que importam",
+     "arquivo": "modulo-02.md"
+    },
+    {
+     "id": "modulo-03",
+     "titulo": "Módulo 3 — Modelo de negócio e preço",
+     "arquivo": "modulo-03.md"
+    },
+    {
+     "id": "modulo-04",
+     "titulo": "Módulo 4 — Aquisição e marketing",
+     "arquivo": "modulo-04.md"
+    },
+    {
+     "id": "modulo-05",
+     "titulo": "Módulo 5 — Retenção e hábito",
+     "arquivo": "modulo-05.md"
+    },
+    {
+     "id": "modulo-06",
+     "titulo": "Módulo 6 — Regras do jogo no Brasil",
+     "arquivo": "modulo-06.md"
+    },
+    {
+     "id": "modulo-07",
+     "titulo": "Módulo 7 — Roteiro e priorização",
+     "arquivo": "modulo-07.md"
+    },
+    {
+     "id": "fontes",
+     "titulo": "Fontes",
+     "arquivo": "fontes.md"
+    }
+   ],
+   "avaliacoes": [
+    {
+     "id": "avaliacao",
+     "titulo": "Avaliação final",
+     "arquivo": "avaliacao.json"
+    }
+   ],
+   "flashcards": "flashcards.json"
+  },
+  {
    "id": "zeny-erp",
    "titulo": "Zeny ERP",
    "descricao": "Trilha reservada para os estudos do Zeny ERP. O conteúdo ainda não foi escrito.",

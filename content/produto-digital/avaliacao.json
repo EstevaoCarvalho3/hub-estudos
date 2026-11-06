@@ -1,0 +1,235 @@
+{
+ "titulo": "Avaliação final",
+ "descricao": "14 questões, duas por módulo. Acerte 10 para concluir a trilha.",
+ "minutos": 30,
+ "passagens": {},
+ "blocos": [
+  {
+   "id": "produto",
+   "titulo": "Produto digital"
+  }
+ ],
+ "grupos": [
+  {
+   "titulo": "Produto digital",
+   "blocos": [
+    "produto"
+   ],
+   "minimo": 10,
+   "meta": 12,
+   "naoZerar": false
+  }
+ ],
+ "questoes": [
+  {
+   "n": 1,
+   "bloco": "produto",
+   "modulo": "modulo-01",
+   "enunciado": "Antes de construir um produto, qual aposta deve ser testada primeiro?",
+   "alternativas": {
+    "A": "A de tecnologia",
+    "B": "A que for mais fácil de testar",
+    "C": "Nenhuma; testar atrasa o lançamento",
+    "D": "A que for mais arriscada",
+    "E": "Sempre a de preço"
+   },
+   "resposta": "D",
+   "explicacao": "Testar primeiro a aposta mais arriscada evita gastar meses construindo em cima de algo falso."
+  },
+  {
+   "n": 2,
+   "bloco": "produto",
+   "modulo": "modulo-01",
+   "enunciado": "Um amigo diz que \"com certeza usaria\" o seu app. Segundo o The Mom Test, isso é",
+   "alternativas": {
+    "A": "um compromisso de compra",
+    "B": "uma métrica de retenção",
+    "C": "um elogio, que não comprova comportamento",
+    "D": "um teste A/B",
+    "E": "um sinal forte de demanda"
+   },
+   "resposta": "C",
+   "explicacao": "Sinais fortes são ações, como já ter pago por algo parecido ou pedir para testar. Opiniões sobre o futuro são gentilezas."
+  },
+  {
+   "n": 3,
+   "bloco": "produto",
+   "modulo": "modulo-02",
+   "enunciado": "Qual destas é uma métrica de vaidade?",
+   "alternativas": {
+    "A": "Taxa de ativação",
+    "B": "Usuários ativos na semana",
+    "C": "Churn mensal",
+    "D": "Retenção D7",
+    "E": "Total acumulado de cadastros"
+   },
+   "resposta": "E",
+   "explicacao": "O total acumulado só cresce, mesmo que ninguém use o produto, e não ajuda a decidir nada."
+  },
+  {
+   "n": 4,
+   "bloco": "produto",
+   "modulo": "modulo-02",
+   "enunciado": "Um produto tem 500 assinantes no início do mês e 25 cancelam. O churn mensal é",
+   "alternativas": {
+    "A": "25%",
+    "B": "2,5%",
+    "C": "5%",
+    "D": "20%",
+    "E": "10%"
+   },
+   "resposta": "C",
+   "explicacao": "25 ÷ 500 = 0,05, ou seja, 5%."
+  },
+  {
+   "n": 5,
+   "bloco": "produto",
+   "modulo": "modulo-03",
+   "enunciado": "No modelo freemium, o que convém NÃO deixar ilimitado no plano grátis?",
+   "alternativas": {
+    "A": "A leitura de uma trilha de amostra",
+    "B": "Recursos com custo variável alto, como chamadas de IA",
+    "C": "O cadastro",
+    "D": "O suporte por e-mail para dúvidas de pagamento",
+    "E": "A página inicial"
+   },
+   "resposta": "B",
+   "explicacao": "Cada uso de IA custa dinheiro. Sem cota, o plano grátis pode gerar prejuízo."
+  },
+  {
+   "n": 6,
+   "bloco": "produto",
+   "modulo": "modulo-03",
+   "enunciado": "Qual é o piso para definir o preço de uma assinatura?",
+   "alternativas": {
+    "A": "A taxa do meio de pagamento apenas",
+    "B": "O preço que os amigos sugerirem",
+    "C": "O valor que o aluno ganha ao passar no concurso",
+    "D": "O preço do concorrente mais barato",
+    "E": "O custo de atender cada usuário"
+   },
+   "resposta": "E",
+   "explicacao": "Abaixo do custo por usuário, cada cliente dá prejuízo. O valor percebido é o teto."
+  },
+  {
+   "n": 7,
+   "bloco": "produto",
+   "modulo": "modulo-04",
+   "enunciado": "Um anúncio teve 10.000 impressões e 150 cliques. O CTR é",
+   "alternativas": {
+    "A": "6,7%",
+    "B": "15%",
+    "C": "0,15%",
+    "D": "1,5%",
+    "E": "150%"
+   },
+   "resposta": "D",
+   "explicacao": "150 ÷ 10.000 = 0,015, ou seja, 1,5%."
+  },
+  {
+   "n": 8,
+   "bloco": "produto",
+   "modulo": "modulo-04",
+   "enunciado": "Quando faz sentido ligar um programa de indicação?",
+   "alternativas": {
+    "A": "Antes do lançamento, para crescer rápido",
+    "B": "Nunca em produtos de estudo",
+    "C": "Quando o churn estiver acima de 50%",
+    "D": "Só depois de anunciar na TV",
+    "E": "Quando a retenção já está boa"
+   },
+   "resposta": "E",
+   "explicacao": "Indicação com retenção ruim só traz mais gente que vai sair. Primeiro tape o balde."
+  },
+  {
+   "n": 9,
+   "bloco": "produto",
+   "modulo": "modulo-05",
+   "enunciado": "No modelo do gancho, a notificação \"você tem 12 cartões para hoje\" é um",
+   "alternativas": {
+    "A": "investimento",
+    "B": "gatilho interno",
+    "C": "recompensa variável",
+    "D": "gatilho externo",
+    "E": "momento aha"
+   },
+   "resposta": "D",
+   "explicacao": "Gatilho externo vem de fora da pessoa, como notificações e e-mails."
+  },
+  {
+   "n": 10,
+   "bloco": "produto",
+   "modulo": "modulo-05",
+   "enunciado": "Qual cuidado reduz o desânimo causado por perder a sequência de dias?",
+   "alternativas": {
+    "A": "Mandar mais notificações",
+    "B": "Oferecer meta ajustável ou dia de folga",
+    "C": "Zerar todos os pontos",
+    "D": "Criar um ranking público",
+    "E": "Esconder a sequência"
+   },
+   "resposta": "B",
+   "explicacao": "Metas ajustáveis e folgas mantêm a motivação sem punir quem teve um dia ruim."
+  },
+  {
+   "n": 11,
+   "bloco": "produto",
+   "modulo": "modulo-06",
+   "enunciado": "Pela LGPD, um aluno pede para excluir os seus dados do site. Isso é",
+   "alternativas": {
+    "A": "um direito do titular previsto na lei",
+    "B": "um pedido que o site pode ignorar",
+    "C": "permitido só para empresas grandes",
+    "D": "obrigatório apenas se ele pagou",
+    "E": "um caso de direito autoral"
+   },
+   "resposta": "A",
+   "explicacao": "Acesso, correção e exclusão estão entre os direitos do titular na LGPD."
+  },
+  {
+   "n": 12,
+   "bloco": "produto",
+   "modulo": "modulo-06",
+   "enunciado": "Sobre uma apostila comercial de cursinho encontrada numa pasta pública, é correto afirmar que",
+   "alternativas": {
+    "A": "continua protegida por direito autoral, e citar não autoriza copiar",
+    "B": "pode ser publicada se a fonte for citada",
+    "C": "virou domínio público ao ser compartilhada",
+    "D": "pode ser vendida se for gratuita na pasta",
+    "E": "pode ser usada desde que em PDF"
+   },
+   "resposta": "A",
+   "explicacao": "Estar acessível não tira a proteção. Citar é boa prática, mas não substitui autorização."
+  },
+  {
+   "n": 13,
+   "bloco": "produto",
+   "modulo": "modulo-07",
+   "enunciado": "Ideia A: alcance 300, impacto 1, confiança 100%, esforço 3. Ideia B: alcance 100, impacto 3, confiança 50%, esforço 1. Pelo RICE,",
+   "alternativas": {
+    "A": "B vence com 300",
+    "B": "B vence com 150",
+    "C": "A vence com 300",
+    "D": "A vence com 100",
+    "E": "empatam"
+   },
+   "resposta": "B",
+   "explicacao": "A = 300 × 1 × 1 ÷ 3 = 100. B = 100 × 3 × 0,5 ÷ 1 = 150. B tem prioridade."
+  },
+  {
+   "n": 14,
+   "bloco": "produto",
+   "modulo": "modulo-07",
+   "enunciado": "O que torna um objetivo de fase verificável?",
+   "alternativas": {
+    "A": "Ter muitas funções",
+    "B": "Ter um prazo de um ano",
+    "C": "Dizer o que precisa ser verdade, com número e prazo",
+    "D": "Ser aprovado pelos amigos",
+    "E": "Ser ambicioso"
+   },
+   "resposta": "C",
+   "explicacao": "Exemplo: \"5 amigos estudam pelo menos 3 dias por semana durante 2 semanas\". Dá para checar se aconteceu."
+  }
+ ]
+}

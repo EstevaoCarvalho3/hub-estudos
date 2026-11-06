@@ -1,0 +1,170 @@
+[
+ {
+  "frente": "MVP",
+  "verso": "A versão mais simples que permite aprender algo verdadeiro com usuários reais"
+ },
+ {
+  "frente": "Ciclo da Startup Enxuta",
+  "verso": "Construir, medir, aprender"
+ },
+ {
+  "frente": "The Mom Test",
+  "verso": "Pergunte sobre o passado e fatos, não sobre opiniões e o futuro"
+ },
+ {
+  "frente": "Concorrente real",
+  "verso": "A alternativa que a pessoa já usa hoje, mesmo que ruim"
+ },
+ {
+  "frente": "MVP concierge",
+  "verso": "Fazer à mão o que o produto faria, para testar antes de automatizar"
+ },
+ {
+  "frente": "Teste de Sean Ellis",
+  "verso": "40% ou mais \"muito desapontados\" sem o produto indica encaixe com o mercado"
+ },
+ {
+  "frente": "Product-market fit",
+  "verso": "Quando o produto atende tão bem um mercado que a demanda puxa o crescimento"
+ },
+ {
+  "frente": "Métrica de vaidade",
+  "verso": "Número que só cresce e não muda decisão, como total de cadastros"
+ },
+ {
+  "frente": "AARRR",
+  "verso": "Aquisição, ativação, retenção, indicação e receita"
+ },
+ {
+  "frente": "Ativação",
+  "verso": "A primeira experiência boa, que mostra o valor do produto"
+ },
+ {
+  "frente": "Coorte",
+  "verso": "Grupo de usuários que começou no mesmo período"
+ },
+ {
+  "frente": "D7",
+  "verso": "Porcentagem de usuários que voltou 7 dias depois do primeiro uso"
+ },
+ {
+  "frente": "Curva de retenção saudável",
+  "verso": "Cai no começo e depois achata"
+ },
+ {
+  "frente": "Churn",
+  "verso": "Porcentagem de assinantes que cancela em um período"
+ },
+ {
+  "frente": "MRR",
+  "verso": "Receita recorrente mensal: assinantes × preço mensal"
+ },
+ {
+  "frente": "LTV simplificado",
+  "verso": "Preço mensal ÷ churn mensal"
+ },
+ {
+  "frente": "CAC",
+  "verso": "Gasto com marketing ÷ novos clientes pagantes"
+ },
+ {
+  "frente": "LTV/CAC",
+  "verso": "Regra prática: pelo menos 3"
+ },
+ {
+  "frente": "Métrica norte",
+  "verso": "O número que melhor representa o valor entregue ao usuário"
+ },
+ {
+  "frente": "Freemium",
+  "verso": "Parte grátis para sempre e recursos extras pagos"
+ },
+ {
+  "frente": "Conversão típica do freemium",
+  "verso": "Na faixa de 2% a 5%, como referência"
+ },
+ {
+  "frente": "Piso e teto do preço",
+  "verso": "Custo por usuário e valor percebido"
+ },
+ {
+  "frente": "Ancoragem de preço",
+  "verso": "Um plano mais caro ao lado faz o do meio parecer razoável"
+ },
+ {
+  "frente": "Plano anual",
+  "verso": "Desconto comum de cerca de 2 meses; melhora caixa e retenção"
+ },
+ {
+  "frente": "Método Bullseye",
+  "verso": "Listar canais, testar os promissores barato, focar no vencedor"
+ },
+ {
+  "frente": "CTR",
+  "verso": "Cliques ÷ impressões"
+ },
+ {
+  "frente": "CPC",
+  "verso": "Gasto ÷ cliques"
+ },
+ {
+  "frente": "Teste A/B",
+  "verso": "Duas versões, uma mudança por vez, grupos diferentes"
+ },
+ {
+  "frente": "Momento \"aha\"",
+  "verso": "Quando a pessoa sente o valor do produto pela primeira vez"
+ },
+ {
+  "frente": "Modelo do gancho",
+  "verso": "Gatilho, ação, recompensa variável e investimento"
+ },
+ {
+  "frente": "Gatilho interno",
+  "verso": "Uma emoção ou necessidade que leva ao produto sem lembrete"
+ },
+ {
+  "frente": "Investimento (gancho)",
+  "verso": "O que o usuário coloca e que aumenta o valor do produto para ele"
+ },
+ {
+  "frente": "Prática de recuperação",
+  "verso": "Tentar lembrar antes de conferir"
+ },
+ {
+  "frente": "Repetição espaçada",
+  "verso": "Revisar quando está quase esquecendo, em intervalos crescentes"
+ },
+ {
+  "frente": "LGPD",
+  "verso": "Lei 13.709/2018, de proteção de dados pessoais"
+ },
+ {
+  "frente": "Princípio da necessidade",
+  "verso": "Coletar só o mínimo para a finalidade informada"
+ },
+ {
+  "frente": "Art. 49 do CDC",
+  "verso": "7 dias para desistir de compra feita fora do estabelecimento"
+ },
+ {
+  "frente": "Atos oficiais e direito autoral",
+  "verso": "Leis e editais não são protegidos (Lei 9.610, art. 8º, IV)"
+ },
+ {
+  "frente": "Citar a fonte",
+  "verso": "Obrigatório, mas não autoriza copiar material protegido"
+ },
+ {
+  "frente": "RICE",
+  "verso": "Alcance × impacto × confiança ÷ esforço"
+ },
+ {
+  "frente": "MoSCoW",
+  "verso": "Must, Should, Could e Won't have (desta vez)"
+ },
+ {
+  "frente": "História de usuário",
+  "verso": "Como [quem], quero [o quê], para [por quê]"
+ }
+]

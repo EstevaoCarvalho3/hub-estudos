@@ -761,7 +761,9 @@ async function telaResultado(indice) {
   const resumo = `${estado.nome || 'Resultado'} — ${prova.titulo} (${t.titulo}): ${nota.total}/${prova.questoes.length} (${nota.grupos.map((g) => `${g.titulo} ${g.pontos}/${g.total}`).join('; ')}) em ${formatarTempo(r.segundos)}.`;
   app.innerHTML = `<a class="voltar" href="#/trilha/${esc(r.trilha)}">← ${esc(t.titulo)}</a>
     <h1>Resultado: ${nota.total} de ${prova.questoes.length}</h1>
-    <span class="selo ${nota.aprovado ? 'ok' : 'ruim'}">${nota.aprovado ? 'Passaria nos mínimos da prova' : 'Ficaria abaixo dos mínimos da prova'}</span>
+    <span class="selo ${nota.aprovado ? 'ok' : 'ruim'}">${t.tipo === 'curso'
+    ? (nota.aprovado ? 'Aprovado na avaliação' : 'Abaixo da nota mínima: revise os tópicos e tente de novo')
+    : (nota.aprovado ? 'Passaria nos mínimos da prova' : 'Ficaria abaixo dos mínimos da prova')}</span>
     <div class="placar cor-${esc(t.cor || 'azul')}">${nota.grupos.map((g) => `<div>${esc(g.titulo)}<b>${g.pontos}/${g.total}</b>
       <div class="barra-prog"><i style="width:${Math.round((g.pontos / g.total) * 100)}%"></i><span class="marca-min" style="left:${Math.round((g.minimo / g.total) * 100)}%"></span></div>
       <small class="${g.aprovado ? 'ok' : 'ruim'}">mínimo ${g.minimo}${g.zerou ? ', disciplina zerada' : ''} · meta ${g.meta}</small></div>`).join('')}
