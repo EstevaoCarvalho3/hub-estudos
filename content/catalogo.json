@@ -1,93 +1,236 @@
 {
-  "trilhas": [
+ "trilhas": [
+  {
+   "id": "transpetro-2026",
+   "titulo": "Transpetro 2026 — Manutenção Eletrônica",
+   "descricao": "Processo seletivo de nível médio, Ênfase 9, banca Cesgranrio. Prova em 06/12/2026.",
+   "status": "ativa",
+   "materiais": [
     {
-      "id": "transpetro-2026",
-      "titulo": "Transpetro 2026 — Manutenção Eletrônica",
-      "descricao": "Processo seletivo de nível médio, Ênfase 9, banca Cesgranrio. Prova em 06/12/2026.",
-      "status": "ativa",
-      "materiais": [
-        {
-          "id": "resumo",
-          "titulo": "Resumo do concurso",
-          "arquivo": "resumo.md"
-        },
-        {
-          "id": "plano",
-          "titulo": "Plano de estudos",
-          "arquivo": "plano.md"
-        },
-        {
-          "id": "modulo-01",
-          "titulo": "Módulo 1 — Circuitos elétricos",
-          "arquivo": "modulo-01.md"
-        },
-        {
-          "id": "modulo-02",
-          "titulo": "Módulo 2 — Eletrônica analógica e de potência",
-          "arquivo": "modulo-02.md"
-        },
-        {
-          "id": "modulo-03",
-          "titulo": "Módulo 3 — Eletrônica digital",
-          "arquivo": "modulo-03.md"
-        },
-        {
-          "id": "modulo-04",
-          "titulo": "Módulo 4 — Medições, instrumentação e metrologia",
-          "arquivo": "modulo-04.md"
-        },
-        {
-          "id": "modulo-05",
-          "titulo": "Módulo 5 — Controle, CLP e SDCD",
-          "arquivo": "modulo-05.md"
-        },
-        {
-          "id": "modulo-06",
-          "titulo": "Módulo 6 — Projeto industrial, ISA S5.1 e fluidos",
-          "arquivo": "modulo-06.md"
-        },
-        {
-          "id": "modulo-07",
-          "titulo": "Módulo 7 — Redes e protocolos industriais",
-          "arquivo": "modulo-07.md"
-        },
-        {
-          "id": "modulo-08",
-          "titulo": "Módulo 8 — SIS, PERT/CPM, SST e manutenção",
-          "arquivo": "modulo-08.md"
-        },
-        {
-          "id": "modulo-09",
-          "titulo": "Módulo 9 — Língua Portuguesa",
-          "arquivo": "modulo-09.md"
-        },
-        {
-          "id": "modulo-10",
-          "titulo": "Módulo 10 — Matemática",
-          "arquivo": "modulo-10.md"
-        },
-        {
-          "id": "fontes",
-          "titulo": "Fontes",
-          "arquivo": "fontes.md"
-        }
-      ],
-      "avaliacoes": [
-        {
-          "id": "simulado",
-          "titulo": "Simulado no estilo Cesgranrio",
-          "arquivo": "simulado.json"
-        }
-      ],
-      "flashcards": "flashcards.json"
+     "id": "resumo",
+     "titulo": "Resumo do concurso",
+     "arquivo": "resumo.md"
     },
     {
-      "id": "zeny-erp",
-      "titulo": "Zeny ERP",
-      "descricao": "Trilha reservada para os estudos do Zeny ERP. O conteúdo ainda não foi escrito.",
-      "status": "em-construcao",
-      "materiais": [],
-      "avaliacoes": []
+     "id": "plano",
+     "titulo": "Plano de estudos",
+     "arquivo": "plano.md"
+    },
+    {
+     "id": "modulo-01",
+     "titulo": "Módulo 1 — Circuitos elétricos",
+     "arquivo": "modulo-01.md"
+    },
+    {
+     "id": "modulo-02",
+     "titulo": "Módulo 2 — Eletrônica analógica e de potência",
+     "arquivo": "modulo-02.md"
+    },
+    {
+     "id": "modulo-03",
+     "titulo": "Módulo 3 — Eletrônica digital",
+     "arquivo": "modulo-03.md"
+    },
+    {
+     "id": "modulo-04",
+     "titulo": "Módulo 4 — Medições, instrumentação e metrologia",
+     "arquivo": "modulo-04.md"
+    },
+    {
+     "id": "modulo-05",
+     "titulo": "Módulo 5 — Controle, CLP e SDCD",
+     "arquivo": "modulo-05.md"
+    },
+    {
+     "id": "modulo-06",
+     "titulo": "Módulo 6 — Projeto industrial, ISA S5.1 e fluidos",
+     "arquivo": "modulo-06.md"
+    },
+    {
+     "id": "modulo-07",
+     "titulo": "Módulo 7 — Redes e protocolos industriais",
+     "arquivo": "modulo-07.md"
+    },
+    {
+     "id": "modulo-08",
+     "titulo": "Módulo 8 — SIS, PERT/CPM, SST e manutenção",
+     "arquivo": "modulo-08.md"
+    },
+    {
+     "id": "modulo-09",
+     "titulo": "Módulo 9 — Língua Portuguesa",
+     "arquivo": "modulo-09.md"
+    },
+    {
+     "id": "modulo-10",
+     "titulo": "Módulo 10 — Matemática",
+     "arquivo": "modulo-10.md"
+    },
+    {
+     "id": "fontes",
+     "titulo": "Fontes",
+     "arquivo": "fontes.md"
     }
-  ]
+   ],
+   "avaliacoes": [
+    {
+     "id": "simulado",
+     "titulo": "Simulado no estilo Cesgranrio",
+     "arquivo": "simulado.json"
+    }
+   ],
+   "flashcards": "flashcards.json",
+   "area": "Concursos",
+   "cor": "azul",
+   "resumo": "Ênfase 9 · Cesgranrio · prova em 06/12/2026"
+  },
+  {
+   "id": "transpetro-2026-eletrica",
+   "titulo": "Transpetro 2026 — Manutenção Elétrica",
+   "descricao": "Processo seletivo de nível médio, Ênfase 8, banca Cesgranrio. Prova em 06/12/2026.",
+   "area": "Concursos",
+   "cor": "ambar",
+   "resumo": "Ênfase 8 · Cesgranrio · prova em 06/12/2026",
+   "status": "ativa",
+   "materiais": [
+    {
+     "id": "resumo",
+     "titulo": "Resumo do concurso",
+     "arquivo": "resumo.md"
+    },
+    {
+     "id": "plano",
+     "titulo": "Plano de estudos",
+     "arquivo": "plano.md"
+    },
+    {
+     "id": "modulo-01",
+     "titulo": "Módulo 1 — Circuitos CC e CA",
+     "arquivo": "modulo-01.md"
+    },
+    {
+     "id": "modulo-02",
+     "titulo": "Módulo 2 — Energia, potência e fator de potência",
+     "arquivo": "modulo-02.md"
+    },
+    {
+     "id": "modulo-03",
+     "titulo": "Módulo 3 — Sistemas trifásicos",
+     "arquivo": "modulo-03.md"
+    },
+    {
+     "id": "modulo-04",
+     "titulo": "Módulo 4 — Eletromagnetismo, transformadores e máquinas",
+     "arquivo": "modulo-04.md"
+    },
+    {
+     "id": "modulo-05",
+     "titulo": "Módulo 5 — Proteção, acionamentos e diagramas",
+     "arquivo": "modulo-05.md"
+    },
+    {
+     "id": "modulo-06",
+     "titulo": "Módulo 6 — Medidas elétricas, retificadores, baterias e no-breaks",
+     "arquivo": "modulo-06.md"
+    },
+    {
+     "id": "modulo-07",
+     "titulo": "Módulo 7 — Instalações, aterramento, SPDA e NBR 5410",
+     "arquivo": "modulo-07.md"
+    },
+    {
+     "id": "modulo-08",
+     "titulo": "Módulo 8 — Eletrônica, automação, CLP e controle",
+     "arquivo": "modulo-08.md"
+    },
+    {
+     "id": "modulo-09",
+     "titulo": "Módulo 9 — NR-10, segurança e manutenção elétrica",
+     "arquivo": "modulo-09.md"
+    },
+    {
+     "id": "modulo-10",
+     "titulo": "Módulo 10 — Língua Portuguesa",
+     "arquivo": "modulo-10.md"
+    },
+    {
+     "id": "modulo-11",
+     "titulo": "Módulo 11 — Matemática",
+     "arquivo": "modulo-11.md"
+    },
+    {
+     "id": "fontes",
+     "titulo": "Fontes",
+     "arquivo": "fontes.md"
+    }
+   ],
+   "avaliacoes": [
+    {
+     "id": "simulado",
+     "titulo": "Simulado no estilo Cesgranrio",
+     "arquivo": "simulado.json"
+    }
+   ],
+   "flashcards": "flashcards.json"
+  },
+  {
+   "id": "ia-agentes",
+   "titulo": "IA, Agentes, LLM e MCP",
+   "descricao": "Como um LLM funciona, engenharia de contexto, agentes, workflows, MCP, Skills e tendências de 2026.",
+   "area": "Tecnologia",
+   "cor": "violeta",
+   "resumo": "6 módulos conceituais · flashcards",
+   "status": "ativa",
+   "materiais": [
+    {
+     "id": "modulo-01",
+     "titulo": "Módulo 1 — Como um LLM funciona",
+     "arquivo": "modulo-01.md"
+    },
+    {
+     "id": "modulo-02",
+     "titulo": "Módulo 2 — De prompt a engenharia de contexto",
+     "arquivo": "modulo-02.md"
+    },
+    {
+     "id": "modulo-03",
+     "titulo": "Módulo 3 — Agentes e harness",
+     "arquivo": "modulo-03.md"
+    },
+    {
+     "id": "modulo-04",
+     "titulo": "Módulo 4 — Workflows de agentes",
+     "arquivo": "modulo-04.md"
+    },
+    {
+     "id": "modulo-05",
+     "titulo": "Módulo 5 — MCP e Skills",
+     "arquivo": "modulo-05.md"
+    },
+    {
+     "id": "modulo-06",
+     "titulo": "Módulo 6 — Tendências de 2026 e evidências",
+     "arquivo": "modulo-06.md"
+    },
+    {
+     "id": "fontes",
+     "titulo": "Fontes",
+     "arquivo": "fontes.md"
+    }
+   ],
+   "avaliacoes": [],
+   "flashcards": "flashcards.json"
+  },
+  {
+   "id": "zeny-erp",
+   "titulo": "Zeny ERP",
+   "descricao": "Trilha reservada para os estudos do Zeny ERP. O conteúdo ainda não foi escrito.",
+   "status": "em-construcao",
+   "materiais": [],
+   "avaliacoes": [],
+   "area": "Sistemas",
+   "cor": "cinza",
+   "resumo": "Em construção"
+  }
+ ]
 }

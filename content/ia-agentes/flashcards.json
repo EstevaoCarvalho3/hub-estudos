@@ -1,0 +1,118 @@
+[
+ {
+  "frente": "Token",
+  "verso": "Unidade de texto processada pelo modelo"
+ },
+ {
+  "frente": "Janela de contexto",
+  "verso": "Tudo que o modelo vê na requisição"
+ },
+ {
+  "frente": "Esforço",
+  "verso": "Controle de profundidade e gasto"
+ },
+ {
+  "frente": "Cache de prompt",
+  "verso": "Reuso do início repetido da conversa"
+ },
+ {
+  "frente": "Alucinação",
+  "verso": "Afirmação plausível e falsa"
+ },
+ {
+  "frente": "RAG",
+  "verso": "Buscar dados e entregar ao modelo"
+ },
+ {
+  "frente": "Engenharia de contexto",
+  "verso": "Escolher o que o modelo vê em cada momento"
+ },
+ {
+  "frente": "Agente",
+  "verso": "Modelo em ciclo com ferramentas"
+ },
+ {
+  "frente": "Harness",
+  "verso": "Contexto, ferramentas e controles em volta do modelo"
+ },
+ {
+  "frente": "`CLAUDE.md`",
+  "verso": "Instruções permanentes do Claude"
+ },
+ {
+  "frente": "`AGENTS.md`",
+  "verso": "Padrão aberto de instruções para agentes"
+ },
+ {
+  "frente": "Rule",
+  "verso": "Instrução sempre ativa ou por caminho"
+ },
+ {
+  "frente": "Skill",
+  "verso": "Procedimento carregado sob demanda"
+ },
+ {
+  "frente": "Hook",
+  "verso": "Comando acionado por um evento do agente"
+ },
+ {
+  "frente": "Permissão `deny`",
+  "verso": "Regra que bloqueia em todos os modos"
+ },
+ {
+  "frente": "Modo Auto",
+  "verso": "Classificador revisa ações antes de executar"
+ },
+ {
+  "frente": "Subagente",
+  "verso": "Agente com contexto próprio para uma parte da tarefa"
+ },
+ {
+  "frente": "Worktree",
+  "verso": "Cópia de trabalho isolada no mesmo repositório Git"
+ },
+ {
+  "frente": "Eval",
+  "verso": "Teste que mede a qualidade do agente"
+ },
+ {
+  "frente": "MCP",
+  "verso": "Protocolo que conecta agentes a sistemas"
+ },
+ {
+  "frente": "Tool",
+  "verso": "Ação exposta ao agente"
+ },
+ {
+  "frente": "Resource",
+  "verso": "Dado exposto como contexto"
+ },
+ {
+  "frente": "Plugin",
+  "verso": "Pacote de skills, hooks, agentes ou MCP"
+ },
+ {
+  "frente": "Blueprint",
+  "verso": "YAML que descreve o ambiente do Devin"
+ },
+ {
+  "frente": "Snapshot",
+  "verso": "Imagem pronta que inicia cada sessão Devin"
+ },
+ {
+  "frente": "ACU",
+  "verso": "Unidade de consumo do Devin"
+ },
+ {
+  "frente": "Memory do Devin",
+  "verso": "Notas pessoais aprendidas entre sessões"
+ },
+ {
+  "frente": "Dreaming",
+  "verso": "Processo que reorganiza a Memory"
+ },
+ {
+  "frente": "Handoff",
+  "verso": "Passar uma sessão do local para a nuvem"
+ }
+]

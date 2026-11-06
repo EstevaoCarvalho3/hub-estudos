@@ -1,0 +1,194 @@
+[
+ {
+  "frente": "Valor eficaz",
+  "verso": "Vp/√2"
+ },
+ {
+  "frente": "Thévenin",
+  "verso": "Vth em aberto; Rth com fontes independentes anuladas"
+ },
+ {
+  "frente": "Resistência interna",
+  "verso": "ΔV/ΔI entre dois ensaios"
+ },
+ {
+  "frente": "XL e XC",
+  "verso": "ωL e 1/(ωC)"
+ },
+ {
+  "frente": "Potência aparente",
+  "verso": "S = √(P² + Q²), em VA"
+ },
+ {
+  "frente": "Fator de potência",
+  "verso": "P/S"
+ },
+ {
+  "frente": "Correção do FP",
+  "verso": "Qc = P(tan φ1 − tan φ2)"
+ },
+ {
+  "frente": "1 kWh",
+  "verso": "3,6 × 10⁶ J"
+ },
+ {
+  "frente": "Dois wattímetros",
+  "verso": "P = W1 + W2"
+ },
+ {
+  "frente": "Ligação estrela",
+  "verso": "VL = √3·Vf; IL = If"
+ },
+ {
+  "frente": "Ligação triângulo",
+  "verso": "VL = Vf; IL = √3·If"
+ },
+ {
+  "frente": "Potência trifásica",
+  "verso": "√3·VL·IL·cos φ"
+ },
+ {
+  "frente": "Inverter giro",
+  "verso": "Trocar duas fases"
+ },
+ {
+  "frente": "Força em condutor",
+  "verso": "F = B·I·L·sen θ"
+ },
+ {
+  "frente": "Lei de Lenz",
+  "verso": "A indução se opõe à variação do fluxo"
+ },
+ {
+  "frente": "Laminação do núcleo",
+  "verso": "Reduz correntes parasitas"
+ },
+ {
+  "frente": "Ensaio a vazio",
+  "verso": "Mede perdas no ferro"
+ },
+ {
+  "frente": "Ensaio em curto",
+  "verso": "Mede perdas no cobre"
+ },
+ {
+  "frente": "Velocidade síncrona",
+  "verso": "120f/p"
+ },
+ {
+  "frente": "Escorregamento",
+  "verso": "(ns − n)/ns"
+ },
+ {
+  "frente": "Motor CC série",
+  "verso": "Não partir a vazio"
+ },
+ {
+  "frente": "Estrela-triângulo",
+  "verso": "Corrente e torque caem a 1/3"
+ },
+ {
+  "frente": "Curva C",
+  "verso": "Disparo magnético de 5 a 10 In"
+ },
+ {
+  "frente": "Relé térmico",
+  "verso": "Protege o motor contra sobrecarga"
+ },
+ {
+  "frente": "DR de 30 mA",
+  "verso": "Proteção de pessoas contra choque"
+ },
+ {
+  "frente": "DPS",
+  "verso": "Proteção contra surtos"
+ },
+ {
+  "frente": "Megôhmetro",
+  "verso": "Resistência de isolação"
+ },
+ {
+  "frente": "HIPOT",
+  "verso": "Tensão aplicada e corrente de fuga"
+ },
+ {
+  "frente": "Microhmímetro",
+  "verso": "Resistência de contatos"
+ },
+ {
+  "frente": "TC",
+  "verso": "Nunca abrir o secundário energizado"
+ },
+ {
+  "frente": "TP",
+  "verso": "Nunca curto-circuitar o secundário"
+ },
+ {
+  "frente": "No-break off-line",
+  "verso": "Rede direto na carga em operação normal"
+ },
+ {
+  "frente": "Dupla conversão",
+  "verso": "Sem tempo de transferência"
+ },
+ {
+  "frente": "Baterias em série",
+  "verso": "Somam tensão"
+ },
+ {
+  "frente": "Esquema TN",
+  "verso": "Falta alta; disjuntor atua rápido"
+ },
+ {
+  "frente": "Esquema TT",
+  "verso": "DR indispensável"
+ },
+ {
+  "frente": "BEP",
+  "verso": "Barramento de equipotencialização principal"
+ },
+ {
+  "frente": "Neutro rompido",
+  "verso": "Sobretensão na fase menos carregada"
+ },
+ {
+  "frente": "XLPE",
+  "verso": "90 °C e boa resistência mecânica"
+ },
+ {
+  "frente": "NBR 5419-4",
+  "verso": "Medidas de proteção contra surtos"
+ },
+ {
+  "frente": "Pull-up",
+  "verso": "Limites por nível alto e por potência"
+ },
+ {
+  "frente": "Ganho crítico",
+  "verso": "K = a·b em s³ + as² + bs + K"
+ },
+ {
+  "frente": "Ação integral",
+  "verso": "Elimina erro em regime"
+ },
+ {
+  "frente": "Perigo",
+  "verso": "Fonte de dano"
+ },
+ {
+  "frente": "Risco",
+  "verso": "Probabilidade combinada com gravidade"
+ },
+ {
+  "frente": "Prioridade da NR-10",
+  "verso": "Desenergização"
+ },
+ {
+  "frente": "Prontuário",
+  "verso": "Carga instalada acima de 75 kW"
+ },
+ {
+  "frente": "Treinamento NR-10",
+  "verso": "40 h, com reciclagem bienal"
+ }
+]

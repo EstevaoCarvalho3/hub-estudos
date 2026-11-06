@@ -1,0 +1,890 @@
+{
+ "titulo": "Simulado no estilo Cesgranrio",
+ "descricao": "60 questões inéditas: as 20 gerais comuns a todas as ênfases e 40 específicas de Elétrica. Faça em 4 horas, sem calculadora.",
+ "minutos": 240,
+ "passagens": {
+  "texto1": "Poucos brasileiros percebem, mas boa parte do combustível que abastece o país viaja debaixo da terra. Os dutos ligam refinarias, terminais e portos em silêncio, longe dos olhos do público. Por isso, costumam ser lembrados apenas quando algo dá errado.\n\nEmbora pareça simples, essa rede exige vigilância constante. Sensores acompanham pressão e vazão a cada instante, e equipes percorrem as faixas para identificar ameaças. Assim, pequenas anomalias são tratadas antes que se transformem em acidentes.\n\nHá quem defenda que a automação dispensará o trabalho humano. Contudo, os técnicos lembram que nenhum algoritmo substitui a experiência de quem conhece cada trecho da linha. A tecnologia amplia o olhar do profissional; não o elimina."
+ },
+ "blocos": [
+  {
+   "id": "portugues",
+   "titulo": "Língua Portuguesa"
+  },
+  {
+   "id": "matematica",
+   "titulo": "Matemática"
+  },
+  {
+   "id": "especificas",
+   "titulo": "Conhecimentos Específicos"
+  }
+ ],
+ "grupos": [
+  {
+   "titulo": "Conhecimentos Gerais",
+   "blocos": [
+    "portugues",
+    "matematica"
+   ],
+   "minimo": 10,
+   "meta": 14,
+   "naoZerar": true
+  },
+  {
+   "titulo": "Conhecimentos Específicos",
+   "blocos": [
+    "especificas"
+   ],
+   "minimo": 20,
+   "meta": 32,
+   "naoZerar": false
+  }
+ ],
+ "questoes": [
+  {
+   "n": 1,
+   "bloco": "portugues",
+   "enunciado": "O texto tem como ideia central a",
+   "alternativas": {
+    "A": "substituição gradual dos técnicos por algoritmos",
+    "B": "defesa de novos dutos entre refinarias e portos",
+    "C": "dependência dos dutos de tecnologia e de vigilância humana",
+    "D": "denúncia de acidentes frequentes nas faixas de dutos",
+    "E": "falta de interesse do público pelos combustíveis"
+   },
+   "resposta": "C",
+   "explicacao": "O texto cobre vigilância, sensores e experiência humana",
+   "passagem": "texto1"
+  },
+  {
+   "n": 2,
+   "bloco": "portugues",
+   "enunciado": "Em \"Por isso, costumam ser lembrados\" (parágrafo 1), a expressão destacada indica relação de",
+   "alternativas": {
+    "A": "tempo",
+    "B": "condição",
+    "C": "concessão",
+    "D": "finalidade",
+    "E": "conclusão"
+   },
+   "resposta": "E",
+   "explicacao": "\"Por isso\" conclui a frase anterior",
+   "passagem": "texto1"
+  },
+  {
+   "n": 3,
+   "bloco": "portugues",
+   "enunciado": "Em \"Embora pareça simples\" (parágrafo 2), a palavra destacada expressa",
+   "alternativas": {
+    "A": "concessão",
+    "B": "causa",
+    "C": "adição",
+    "D": "comparação",
+    "E": "proporcionalidade"
+   },
+   "resposta": "A",
+   "explicacao": "\"Embora\" admite um obstáculo que não impede o fato",
+   "passagem": "texto1"
+  },
+  {
+   "n": 4,
+   "bloco": "portugues",
+   "enunciado": "Sem alterar o sentido, \"Contudo\" (parágrafo 3) pode ser substituído por",
+   "alternativas": {
+    "A": "Porque",
+    "B": "Portanto",
+    "C": "Quando",
+    "D": "Entretanto",
+    "E": "Além disso"
+   },
+   "resposta": "D",
+   "explicacao": "\"Contudo\" e \"entretanto\" indicam oposição",
+   "passagem": "texto1"
+  },
+  {
+   "n": 5,
+   "bloco": "portugues",
+   "enunciado": "Em \"não o elimina\" (parágrafo 3), a palavra \"o\" retoma",
+   "alternativas": {
+    "A": "a tecnologia",
+    "B": "o profissional",
+    "C": "o algoritmo",
+    "D": "o olhar",
+    "E": "o trecho"
+   },
+   "resposta": "B",
+   "explicacao": "A tecnologia amplia o olhar e não elimina o profissional",
+   "passagem": "texto1"
+  },
+  {
+   "n": 6,
+   "bloco": "portugues",
+   "enunciado": "O acento indicativo de crase está correto em:",
+   "alternativas": {
+    "A": "O técnico começou à trabalhar cedo.",
+    "B": "A equipe entregou o laudo à ele.",
+    "C": "Os técnicos chegaram à conclusão esperada.",
+    "D": "O sensor foi enviado à algumas unidades.",
+    "E": "A válvula foi fechada à mando do operador."
+   },
+   "resposta": "C",
+   "explicacao": "Chegar a + a conclusão; as demais têm verbo, pronome ou masculino"
+  },
+  {
+   "n": 7,
+   "bloco": "portugues",
+   "enunciado": "A concordância verbal está de acordo com a norma-padrão em:",
+   "alternativas": {
+    "A": "Fazem dois anos que o duto foi inspecionado.",
+    "B": "Haviam muitas falhas no relatório.",
+    "C": "Deve existir soluções mais baratas.",
+    "D": "Aluga-se equipamentos de medição.",
+    "E": "Houve falhas nos dois transmissores."
+   },
+   "resposta": "E",
+   "explicacao": "Haver no sentido de existir fica no singular"
+  },
+  {
+   "n": 8,
+   "bloco": "portugues",
+   "enunciado": "A vírgula está empregada corretamente em:",
+   "alternativas": {
+    "A": "Na manhã seguinte, a equipe revisou o painel.",
+    "B": "A equipe de manutenção, revisou o painel.",
+    "C": "O técnico substituiu, o transmissor de pressão.",
+    "D": "Os relatórios que chegaram ontem, foram arquivados.",
+    "E": "O supervisor entregou, as ordens aos técnicos."
+   },
+   "resposta": "A",
+   "explicacao": "Vírgula isola adjunto deslocado; as demais separam termos essenciais"
+  },
+  {
+   "n": 9,
+   "bloco": "portugues",
+   "enunciado": "Todas as palavras estão grafadas corretamente em:",
+   "alternativas": {
+    "A": "exessão, análize, previlégio",
+    "B": "exceção, análize, privilégio",
+    "C": "exceção, análise, previlégio",
+    "D": "exceção, análise, privilégio",
+    "E": "excessão, análise, privilégio"
+   },
+   "resposta": "D",
+   "explicacao": "Exceção, análise, privilégio"
+  },
+  {
+   "n": 10,
+   "bloco": "portugues",
+   "enunciado": "No texto, \"anomalias\" tem sentido equivalente a",
+   "alternativas": {
+    "A": "regularidades",
+    "B": "irregularidades",
+    "C": "reparos",
+    "D": "medições",
+    "E": "equipes"
+   },
+   "resposta": "B",
+   "explicacao": "Anomalia é desvio do normal"
+  },
+  {
+   "n": 11,
+   "bloco": "matematica",
+   "enunciado": "Seis técnicos, trabalhando 6 h por dia, fazem um serviço em 8 dias. Quatro técnicos, trabalhando 8 h por dia, farão o mesmo serviço em quantos dias?",
+   "alternativas": {
+    "A": "6",
+    "B": "8",
+    "C": "9",
+    "D": "10",
+    "E": "12"
+   },
+   "resposta": "C",
+   "explicacao": "8 × 6/4 × 6/8 = 9"
+  },
+  {
+   "n": 12,
+   "bloco": "matematica",
+   "enunciado": "Um preço sobe 20% e, em seguida, cai 20%. A variação total foi de",
+   "alternativas": {
+    "A": "0%",
+    "B": "−4%",
+    "C": "+4%",
+    "D": "−2%",
+    "E": "+2%"
+   },
+   "resposta": "B",
+   "explicacao": "1,2 × 0,8 = 0,96"
+  },
+  {
+   "n": 13,
+   "bloco": "matematica",
+   "enunciado": "R$ 1.000,00 aplicados a juros compostos de 10% ao mês, por 2 meses, geram montante de",
+   "alternativas": {
+    "A": "R$ 1.100,00",
+    "B": "R$ 1.120,00",
+    "C": "R$ 1.200,00",
+    "D": "R$ 1.210,00",
+    "E": "R$ 1.331,00"
+   },
+   "resposta": "D",
+   "explicacao": "1.000 × 1,1² = 1.210"
+  },
+  {
+   "n": 14,
+   "bloco": "matematica",
+   "enunciado": "Se 2 elevado a (x + 1) é igual a 32, então x vale",
+   "alternativas": {
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "15",
+    "E": "31"
+   },
+   "resposta": "A",
+   "explicacao": "32 = 2⁵, então x + 1 = 5"
+  },
+  {
+   "n": 15,
+   "bloco": "matematica",
+   "enunciado": "A maior raiz de x² − 5x + 6 = 0 é",
+   "alternativas": {
+    "A": "−3",
+    "B": "−2",
+    "C": "1",
+    "D": "2",
+    "E": "3"
+   },
+   "resposta": "E",
+   "explicacao": "Raízes 2 e 3"
+  },
+  {
+   "n": 16,
+   "bloco": "matematica",
+   "enunciado": "De quantas formas se escolhem 3 técnicos entre 6, sem ordem?",
+   "alternativas": {
+    "A": "6",
+    "B": "18",
+    "C": "20",
+    "D": "120",
+    "E": "720"
+   },
+   "resposta": "C",
+   "explicacao": "C(6,3) = 20"
+  },
+  {
+   "n": 17,
+   "bloco": "matematica",
+   "enunciado": "Dois dados comuns são lançados. A probabilidade de a soma ser 7 é",
+   "alternativas": {
+    "A": "1/6",
+    "B": "1/12",
+    "C": "1/36",
+    "D": "7/36",
+    "E": "5/36"
+   },
+   "resposta": "A",
+   "explicacao": "6 casos em 36"
+  },
+  {
+   "n": 18,
+   "bloco": "matematica",
+   "enunciado": "Para os dados 2, 4, 4, 6 e 9, a diferença entre a média e a mediana é",
+   "alternativas": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "3",
+    "E": "5"
+   },
+   "resposta": "B",
+   "explicacao": "Média 5 e mediana 4"
+  },
+  {
+   "n": 19,
+   "bloco": "matematica",
+   "enunciado": "Um triângulo retângulo tem catetos 6 e 8. A altura relativa à hipotenusa mede",
+   "alternativas": {
+    "A": "2,4",
+    "B": "3,6",
+    "C": "4,0",
+    "D": "4,8",
+    "E": "5,0"
+   },
+   "resposta": "D",
+   "explicacao": "h = 6 × 8 / 10"
+  },
+  {
+   "n": 20,
+   "bloco": "matematica",
+   "enunciado": "Um tanque cilíndrico tem raio de 2 m e altura de 5 m. Seu volume, em m³, é",
+   "alternativas": {
+    "A": "4π",
+    "B": "5π",
+    "C": "10π",
+    "D": "14π",
+    "E": "20π"
+   },
+   "resposta": "E",
+   "explicacao": "π × 4 × 5"
+  },
+  {
+   "n": 21,
+   "bloco": "especificas",
+   "enunciado": "Um resistor de 2 Ω está em série com o paralelo de 6 Ω e 3 Ω, alimentado por 12 V CC. A corrente fornecida pela fonte, em amperes, é",
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "6"
+   },
+   "resposta": "C",
+   "explicacao": "Req = 2 + 2 = 4 Ω; I = 12/4"
+  },
+  {
+   "n": 22,
+   "bloco": "especificas",
+   "enunciado": "Uma fonte de 100 V liga-se a um nó por um resistor de 10 Ω. Do nó ao terra há dois resistores de 10 Ω em paralelo. A tensão no nó, em volts, é de cerca de",
+   "alternativas": {
+    "A": "25",
+    "B": "33,3",
+    "C": "50",
+    "D": "66,7",
+    "E": "100"
+   },
+   "resposta": "B",
+   "explicacao": "(100 − V)/10 = V/5, então V = 33,3 V"
+  },
+  {
+   "n": 23,
+   "bloco": "especificas",
+   "enunciado": "Uma fonte de 24 V alimenta 4 Ω em série e 12 Ω em derivação. Do ponto entre eles sai um resistor de 3 Ω até o terminal de saída. Vth, em V, e Rth, em Ω, valem",
+   "alternativas": {
+    "A": "18 e 6",
+    "B": "18 e 3",
+    "C": "24 e 6",
+    "D": "12 e 4",
+    "E": "6 e 6"
+   },
+   "resposta": "A",
+   "explicacao": "Vth = 24 × 12/16; Rth = 3 + (4 ∥ 12)"
+  },
+  {
+   "n": 24,
+   "bloco": "especificas",
+   "enunciado": "Uma bateria fornece 12 V com 10 A e 11,6 V com 20 A. Sua resistência interna, em ohms, é",
+   "alternativas": {
+    "A": "0,02",
+    "B": "0,04",
+    "C": "0,4",
+    "D": "0,6",
+    "E": "1,2"
+   },
+   "resposta": "B",
+   "explicacao": "r = (12 − 11,6)/(20 − 10)"
+  },
+  {
+   "n": 25,
+   "bloco": "especificas",
+   "enunciado": "Uma tensão senoidal tem pico de 311 V. Seu valor eficaz, em volts, é de cerca de",
+   "alternativas": {
+    "A": "155",
+    "B": "180",
+    "C": "220",
+    "D": "254",
+    "E": "311"
+   },
+   "resposta": "C",
+   "explicacao": "311/√2"
+  },
+  {
+   "n": 26,
+   "bloco": "especificas",
+   "enunciado": "A soma de 60 sen(ωt) com 80 sen(ωt + 90°) tem amplitude de pico, em volts, de",
+   "alternativas": {
+    "A": "20",
+    "B": "70",
+    "C": "140",
+    "D": "180",
+    "E": "100"
+   },
+   "resposta": "E",
+   "explicacao": "√(60² + 80²), pois os fasores estão a 90°"
+  },
+  {
+   "n": 27,
+   "bloco": "especificas",
+   "enunciado": "A constante de tempo de um circuito RL série com L = 0,2 H e R = 40 Ω, em milissegundos, é",
+   "alternativas": {
+    "A": "0,2",
+    "B": "0,5",
+    "C": "2",
+    "D": "5",
+    "E": "8"
+   },
+   "resposta": "D",
+   "explicacao": "τ = L/R = 0,2/40 = 5 ms"
+  },
+  {
+   "n": 28,
+   "bloco": "especificas",
+   "enunciado": "Um medidor com disco dá uma volta a cada 2,5 Wh. Uma carga de 100 W opera por 30 minutos e outra de 60 W, por 60 minutos. O disco dará quantas voltas?",
+   "alternativas": {
+    "A": "22",
+    "B": "36",
+    "C": "40",
+    "D": "44",
+    "E": "48"
+   },
+   "resposta": "D",
+   "explicacao": "50 Wh + 60 Wh = 110 Wh; 110/2,5"
+  },
+  {
+   "n": 29,
+   "bloco": "especificas",
+   "enunciado": "Um quadro alimenta um motor de 50 kVA com FP 0,8 e outro de 20 kVA com FP 0,6, e tem um banco de capacitores de 20 kvar. A potência reativa vista pela rede, em kvar, é",
+   "alternativas": {
+    "A": "6",
+    "B": "16",
+    "C": "26",
+    "D": "36",
+    "E": "46"
+   },
+   "resposta": "C",
+   "explicacao": "30 + 16 − 20 kvar"
+  },
+  {
+   "n": 30,
+   "bloco": "especificas",
+   "enunciado": "Uma instalação consome 100 kVA e 60 kW. Seu fator de potência é",
+   "alternativas": {
+    "A": "0,60",
+    "B": "0,75",
+    "C": "0,80",
+    "D": "0,92",
+    "E": "1,00"
+   },
+   "resposta": "A",
+   "explicacao": "FP = 60/100"
+  },
+  {
+   "n": 31,
+   "bloco": "especificas",
+   "enunciado": "No Sistema Internacional, 1 kWh equivale, em joules, a",
+   "alternativas": {
+    "A": "2,7 × 10⁻⁷",
+    "B": "1",
+    "C": "3,6 × 10³",
+    "D": "6 × 10⁴",
+    "E": "3,6 × 10⁶"
+   },
+   "resposta": "E",
+   "explicacao": "1.000 W × 3.600 s"
+  },
+  {
+   "n": 32,
+   "bloco": "especificas",
+   "enunciado": "No método dos dois wattímetros, a potência ativa trifásica total é obtida pelo(a)",
+   "alternativas": {
+    "A": "produto das leituras",
+    "B": "soma algébrica das leituras",
+    "C": "diferença das leituras multiplicada por √3",
+    "D": "maior leitura",
+    "E": "média das leituras"
+   },
+   "resposta": "B",
+   "explicacao": "P = W1 + W2, com sinal"
+  },
+  {
+   "n": 33,
+   "bloco": "especificas",
+   "enunciado": "Uma rede com tensão de linha de 100√3 V alimenta uma carga em Δ com j10 Ω por ramo e outra em Y com j5 Ω por ramo. A corrente de linha total, em amperes, é",
+   "alternativas": {
+    "A": "20",
+    "B": "30",
+    "C": "35",
+    "D": "50",
+    "E": "70"
+   },
+   "resposta": "D",
+   "explicacao": "Δ: IL = 30 A; Y: 20 A; ambas indutivas puras"
+  },
+  {
+   "n": 34,
+   "bloco": "especificas",
+   "enunciado": "Em um sistema 380/220 V ligado em estrela, a tensão de fase, em volts, é",
+   "alternativas": {
+    "A": "127",
+    "B": "190",
+    "C": "220",
+    "D": "380",
+    "E": "658"
+   },
+   "resposta": "C",
+   "explicacao": "380/√3"
+  },
+  {
+   "n": 35,
+   "bloco": "especificas",
+   "enunciado": "Uma carga trifásica equilibrada opera com 380 V de linha, 20 A de linha e FP 0,85. A potência ativa, em kW, é de cerca de",
+   "alternativas": {
+    "A": "6,46",
+    "B": "11,2",
+    "C": "12,9",
+    "D": "19,4",
+    "E": "22,4"
+   },
+   "resposta": "B",
+   "explicacao": "√3 × 380 × 20 × 0,85"
+  },
+  {
+   "n": 36,
+   "bloco": "especificas",
+   "enunciado": "Um condutor de 0,5 m conduz 20 A, perpendicular a um campo de 0,8 T. A força sobre ele, em newtons, é",
+   "alternativas": {
+    "A": "2",
+    "B": "4",
+    "C": "8",
+    "D": "10",
+    "E": "16"
+   },
+   "resposta": "C",
+   "explicacao": "F = 0,8 × 20 × 0,5"
+  },
+  {
+   "n": 37,
+   "bloco": "especificas",
+   "enunciado": "A laminação do núcleo de um transformador reduz principalmente as perdas por",
+   "alternativas": {
+    "A": "correntes parasitas",
+    "B": "histerese",
+    "C": "efeito Joule no cobre",
+    "D": "fluxo de dispersão",
+    "E": "rigidez dielétrica"
+   },
+   "resposta": "A",
+   "explicacao": "Chapas isoladas cortam o caminho das correntes de Foucault"
+  },
+  {
+   "n": 38,
+   "bloco": "especificas",
+   "enunciado": "Um motor de indução de 6 polos, em 60 Hz, gira a 1.164 rpm. Seu escorregamento é",
+   "alternativas": {
+    "A": "1%",
+    "B": "2%",
+    "C": "3%",
+    "D": "4%",
+    "E": "6%"
+   },
+   "resposta": "C",
+   "explicacao": "ns = 1.200; s = 36/1.200"
+  },
+  {
+   "n": 39,
+   "bloco": "especificas",
+   "enunciado": "Um motor CC shunt opera em 220 V, puxa 30 A da rede, tem campo de 110 Ω, armadura de 0,5 Ω e perdas rotacionais de 368 W. A potência de saída, em kW, é",
+   "alternativas": {
+    "A": "5,0",
+    "B": "5,4",
+    "C": "5,8",
+    "D": "6,2",
+    "E": "6,6"
+   },
+   "resposta": "B",
+   "explicacao": "Ia = 28 A; E = 206 V; 5.768 − 368 W"
+  },
+  {
+   "n": 40,
+   "bloco": "especificas",
+   "enunciado": "Um gerador síncrono trifásico de 60√3 kVA e 400 V está ligado em Δ. Sua corrente de fase nominal, em amperes, é",
+   "alternativas": {
+    "A": "50",
+    "B": "50√3",
+    "C": "150",
+    "D": "150√3",
+    "E": "450"
+   },
+   "resposta": "B",
+   "explicacao": "IL = 150 A; If = 150/√3"
+  },
+  {
+   "n": 41,
+   "bloco": "especificas",
+   "enunciado": "Para ligar dois transformadores trifásicos em paralelo, NÃO é condição obrigatória que eles tenham",
+   "alternativas": {
+    "A": "a mesma relação de transformação",
+    "B": "o mesmo índice horário",
+    "C": "a mesma sequência de fases",
+    "D": "impedâncias percentuais próximas",
+    "E": "a mesma potência nominal"
+   },
+   "resposta": "E",
+   "explicacao": "Potências podem ser diferentes"
+  },
+  {
+   "n": 42,
+   "bloco": "especificas",
+   "enunciado": "Um motor tem corrente nominal de 20 A e corrente de partida direta de 7,5 vezes a nominal. Com chave estrela-triângulo, a corrente de partida, em amperes, cai para",
+   "alternativas": {
+    "A": "30",
+    "B": "50",
+    "C": "87",
+    "D": "150",
+    "E": "260"
+   },
+   "resposta": "B",
+   "explicacao": "150 A divididos por 3"
+  },
+  {
+   "n": 43,
+   "bloco": "especificas",
+   "enunciado": "O disparo magnético de um disjuntor de curva C ocorre, tipicamente, entre",
+   "alternativas": {
+    "A": "1 e 2 In",
+    "B": "2 e 3 In",
+    "C": "3 e 5 In",
+    "D": "5 e 10 In",
+    "E": "10 e 20 In"
+   },
+   "resposta": "D",
+   "explicacao": "Curva C: 5 a 10 In"
+  },
+  {
+   "n": 44,
+   "bloco": "especificas",
+   "enunciado": "Em um circuito de partida de motor, o relé térmico protege contra",
+   "alternativas": {
+    "A": "sobrecarga do motor",
+    "B": "curto-circuito no ramal",
+    "C": "surtos atmosféricos",
+    "D": "fuga à terra",
+    "E": "subtensão da rede"
+   },
+   "resposta": "A",
+   "explicacao": "Relé térmico mede o aquecimento por sobrecarga"
+  },
+  {
+   "n": 45,
+   "bloco": "especificas",
+   "enunciado": "Para inverter o sentido de giro de um motor de indução trifásico, deve-se",
+   "alternativas": {
+    "A": "inverter o neutro com o terra",
+    "B": "trocar as três fases em sequência circular",
+    "C": "reduzir a tensão de alimentação",
+    "D": "mudar a ligação de estrela para triângulo",
+    "E": "trocar duas fases entre si"
+   },
+   "resposta": "E",
+   "explicacao": "Troca circular mantém a sequência; só trocar duas inverte"
+  },
+  {
+   "n": 46,
+   "bloco": "especificas",
+   "enunciado": "O instrumento usado para medir a resistência de isolação de um motor, em MΩ, é o",
+   "alternativas": {
+    "A": "microhmímetro",
+    "B": "terrômetro",
+    "C": "megôhmetro",
+    "D": "sequencímetro",
+    "E": "alicate amperímetro"
+   },
+   "resposta": "C",
+   "explicacao": "Megôhmetro mede isolação"
+  },
+  {
+   "n": 47,
+   "bloco": "especificas",
+   "enunciado": "Sobre um transformador de corrente (TC) em operação, é correto afirmar que",
+   "alternativas": {
+    "A": "seu secundário não deve ser aberto com o primário energizado",
+    "B": "seu secundário deve ficar sempre aberto",
+    "C": "ele limita a corrente de curto do ramal",
+    "D": "ele alimenta as cargas de baixa tensão",
+    "E": "seu secundário típico é de 115 V"
+   },
+   "resposta": "A",
+   "explicacao": "Secundário aberto gera tensão perigosa"
+  },
+  {
+   "n": 48,
+   "bloco": "especificas",
+   "enunciado": "O no-break que, com a rede normal, alimenta a carga direto pela rede, sem tratamento, é o",
+   "alternativas": {
+    "A": "on-line de dupla conversão",
+    "B": "delta de conversão",
+    "C": "line-interactive",
+    "D": "off-line",
+    "E": "ferrorressonante"
+   },
+   "resposta": "D",
+   "explicacao": "Off-line deixa a rede passar direto"
+  },
+  {
+   "n": 49,
+   "bloco": "especificas",
+   "enunciado": "Dois conjuntos em paralelo, cada um com 4 baterias de 12 V e 100 Ah em série, formam um banco de",
+   "alternativas": {
+    "A": "48 V e 100 Ah",
+    "B": "48 V e 200 Ah",
+    "C": "24 V e 400 Ah",
+    "D": "96 V e 100 Ah",
+    "E": "12 V e 800 Ah"
+   },
+   "resposta": "B",
+   "explicacao": "Série soma tensão; paralelo soma Ah"
+  },
+  {
+   "n": 50,
+   "bloco": "especificas",
+   "enunciado": "Um equipamento de 4.400 VA em 220 V é alimentado por um circuito com queda unitária de 11 V/(A·km). Para queda máxima de 4%, o comprimento máximo, em metros, é",
+   "alternativas": {
+    "A": "20",
+    "B": "27,5",
+    "C": "36",
+    "D": "40",
+    "E": "44"
+   },
+   "resposta": "D",
+   "explicacao": "I = 20 A; L = 8,8/(11 × 20) km"
+  },
+  {
+   "n": 51,
+   "bloco": "especificas",
+   "enunciado": "No esquema de aterramento TN, a corrente de uma falta fase-massa é",
+   "alternativas": {
+    "A": "desprezível, o que dispensa proteção",
+    "B": "limitada pela resistência do solo",
+    "C": "interrompida apenas por DPS",
+    "D": "baixa, o que obriga o uso de DR",
+    "E": "elevada, o que permite a atuação rápida do disjuntor"
+   },
+   "resposta": "E",
+   "explicacao": "Falta por baixa impedância gera corrente alta"
+  },
+  {
+   "n": 52,
+   "bloco": "especificas",
+   "enunciado": "Um quadro trifásico com cargas desequilibradas apresenta sobretensão em uma das fases. Uma causa provável é",
+   "alternativas": {
+    "A": "excesso de cargas trifásicas equilibradas",
+    "B": "circuitos de iluminação e tomadas separados",
+    "C": "rompimento do neutro do alimentador",
+    "D": "disjuntor geral subdimensionado",
+    "E": "condutor de proteção de seção maior que a fase"
+   },
+   "resposta": "C",
+   "explicacao": "Neutro rompido desloca o ponto neutro"
+  },
+  {
+   "n": 53,
+   "bloco": "especificas",
+   "enunciado": "Quanto às canalizações metálicas de água de uma edificação, elas",
+   "alternativas": {
+    "A": "devem ser usadas como eletrodo de aterramento",
+    "B": "podem ser eletrodo, mas não entram na equipotencialização",
+    "C": "não são eletrodo nem entram na equipotencialização",
+    "D": "não podem ser eletrodo, mas devem ser ligadas ao BEP",
+    "E": "substituem o condutor de proteção"
+   },
+   "resposta": "D",
+   "explicacao": "Não é eletrodo, mas entra no BEP"
+  },
+  {
+   "n": 54,
+   "bloco": "especificas",
+   "enunciado": "A proteção de sistemas eletroeletrônicos contra surtos causados por descargas atmosféricas é feita pelas",
+   "alternativas": {
+    "A": "hastes do método Franklin",
+    "B": "medidas de proteção contra surtos (MPS)",
+    "C": "descidas do SPDA externo",
+    "D": "malhas de captação em gaiola",
+    "E": "esferas rolantes"
+   },
+   "resposta": "B",
+   "explicacao": "MPS, tratadas na NBR 5419-4"
+  },
+  {
+   "n": 55,
+   "bloco": "especificas",
+   "enunciado": "Para um condutor sujeito a impactos mecânicos e temperatura de serviço de 90 °C, a isolação mais adequada é",
+   "alternativas": {
+    "A": "XLPE",
+    "B": "PVC",
+    "C": "papel impregnado",
+    "D": "borracha natural",
+    "E": "algodão"
+   },
+   "resposta": "A",
+   "explicacao": "XLPE: 90 °C e boa resistência mecânica"
+  },
+  {
+   "n": 56,
+   "bloco": "especificas",
+   "enunciado": "A entrada de um CLP em 12 V tem resistência interna de 4 kΩ e reconhece nível alto a partir de 9 V. O pull-up não pode dissipar mais de 0,2 W. O valor adequado é",
+   "alternativas": {
+    "A": "500 Ω",
+    "B": "680 Ω",
+    "C": "1 kΩ",
+    "D": "1,5 kΩ",
+    "E": "2,2 kΩ"
+   },
+   "resposta": "C",
+   "explicacao": "720 Ω ≤ R ≤ 1,33 kΩ"
+  },
+  {
+   "n": 57,
+   "bloco": "especificas",
+   "enunciado": "Uma malha fechada tem polinômio característico s³ + 10s² + 20s + K. O ganho K que leva à oscilação pura é",
+   "alternativas": {
+    "A": "20",
+    "B": "100",
+    "C": "200",
+    "D": "400",
+    "E": "2.000"
+   },
+   "resposta": "C",
+   "explicacao": "K = 10 × 20"
+  },
+  {
+   "n": 58,
+   "bloco": "especificas",
+   "enunciado": "Em um forno controlado por PID, a temperatura estabiliza sempre abaixo do setpoint. Deve-se ajustar a ação",
+   "alternativas": {
+    "A": "proporcional, reduzindo-a a zero",
+    "B": "integral",
+    "C": "derivativa, para filtrar ruído",
+    "D": "de bypass",
+    "E": "de alarme"
+   },
+   "resposta": "B",
+   "explicacao": "Erro em regime pede ação integral"
+  },
+  {
+   "n": 59,
+   "bloco": "especificas",
+   "enunciado": "Pela NR-10, as medidas de proteção coletiva compreendem, prioritariamente,",
+   "alternativas": {
+    "A": "a desenergização",
+    "B": "o uso de luvas isolantes",
+    "C": "a vestimenta antichama",
+    "D": "o capacete com jugular",
+    "E": "o treinamento de reciclagem"
+   },
+   "resposta": "A",
+   "explicacao": "Desenergização vem primeiro"
+  },
+  {
+   "n": 60,
+   "bloco": "especificas",
+   "enunciado": "Pela NR-10, estabelecimentos com carga instalada acima de 75 kW devem manter",
+   "alternativas": {
+    "A": "laudo do SPDA",
+    "B": "projeto arquitetônico",
+    "C": "certificado dos EPIs",
+    "D": "ordem de serviço diária",
+    "E": "Prontuário de Instalações Elétricas"
+   },
+   "resposta": "E",
+   "explicacao": "Prontuário acima de 75 kW"
+  }
+ ]
+}

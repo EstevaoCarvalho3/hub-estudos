@@ -7,14 +7,27 @@
   <meta name="description" content="Base de conhecimento com apostilas, simulados corrigidos e flashcards.">
   <link rel="stylesheet" href="vendor/katex.min.css">
   <link rel="stylesheet" href="styles.css">
+  <script>
+    try {
+      const tema = localStorage.getItem('hub-estudos:tema');
+      if (tema) {
+        document.documentElement.dataset.theme = tema;
+      }
+    } catch (erro) {}
+  </script>
 </head>
 <body>
+  <a class="pular" href="#app">Pular para o conteúdo</a>
   <header class="topo">
-    <a class="marca" href="#/">Hub de Estudos</a>
-    <nav><a href="#/">Trilhas</a><a href="#/progresso">Meu progresso</a></nav>
+    <a class="marca" href="#/"><span class="marca-icone" aria-hidden="true">H</span>Hub de Estudos</a>
+    <nav aria-label="Principal">
+      <a href="#/" data-nav="inicio">Trilhas</a>
+      <a href="#/progresso" data-nav="progresso">Meu progresso</a>
+      <button class="tema" id="tema" type="button" aria-label="Alternar tema claro e escuro">◐</button>
+    </nav>
   </header>
   <main id="app" tabindex="-1"><p class="aviso">Carregando…</p></main>
-  <footer class="rodape">O progresso fica salvo neste navegador. Exporte um backup em Meu progresso.</footer>
+  <footer class="rodape">O progresso fica salvo neste navegador. Baixe um backup em Meu progresso.</footer>
   <script src="vendor/marked.min.js"></script>
   <script src="vendor/katex.min.js"></script>
   <script src="app.js"></script>
